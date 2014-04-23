@@ -1,0 +1,9 @@
+glib
+jabber
+murmur
+rasp
+slur
+soliloquy
+spoonerism
+stammer
+voluble
