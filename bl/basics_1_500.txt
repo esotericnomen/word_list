@@ -27,12 +27,12 @@ anarchy
 anoint
 anomaly
 antagonize
-antipathy (n.)
+antipathy 
 apathy
 apocryphal
-appease (v.)
-appreciable (adj.)
-arbitrary (adj.)
+appease 
+appreciable 
+arbitrary 
 arcane
 archaic
 arduous
@@ -117,7 +117,7 @@ debunk
 decorous
 deem
 deface
-defamatory (adj.)
+defamatory 
 default
 deference
 deflect
@@ -349,24 +349,13 @@ Philanthropy
 Phony
 Pious
 Pith
-2) the choicest or most essentia
 Placate
-2) mollify, pacify, conciliate, 
-3) satisfy or calm down (angry o
 Placid
-2) free from disturbance by heav
-3) not easily irritated
 Plastic
 Plausible
-2) apparently reasonable and val
 Plummet
 Polarized
-1. cause to vibrate in a definit
-2. cause to concentrate about tw
- 3. become polarized in a confli
 Ponderous
-2) heavy; bulky and unwieldy; 
-3) dull, labored
 Posthumous
 Potentate
 Pragmatic
