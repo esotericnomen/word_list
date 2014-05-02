@@ -1,0 +1,20 @@
+circle
+cone
+cylinder
+ellipse
+hexagon
+irregular shape
+octagon
+oval
+parallelogram
+pentagon
+pyramid
+rectangle
+semicircle
+sphere
+square
+star
+trapezoid
+triangle
+wedge
+whorl

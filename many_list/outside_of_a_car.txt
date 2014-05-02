@@ -1,0 +1,20 @@
+bumper
+door
+door handle
+exhaust pipe
+fender
+front turn signal
+gas tank cap
+hood
+hubcap
+license plate
+radiator grill
+rear turn signal
+rear window
+side mirror
+side window
+taillight
+tire
+trunk
+windshield
+windshield wiper

@@ -1,0 +1,58 @@
+ball
+baseball cap
+bat
+batter
+batter's box
+batting average
+catcher
+catcher mitt
+catcher's box
+center fielder
+chest protector
+coach
+day game
+dugout
+exhibition game
+extra inning
+face mask
+farm team
+fence
+field umpire
+first baseman
+first baseman's glove
+foul
+foul line
+four balls
+game
+glove
+helmet
+hit
+home plate
+home team
+innings
+left fielder
+major league
+minor league
+night game
+one ball
+pitcher
+pitcher's mound
+plate umpire
+play-off
+right fielder
+runner
+scoreboard
+second baseman
+shin guards
+short stop
+spiked shoes
+strike one
+strike out
+strike three
+strike two
+switch hittler
+third baseman
+three balls
+two balls
+visiting team
+walk

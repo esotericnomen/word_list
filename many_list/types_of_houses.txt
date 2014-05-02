@@ -1,0 +1,12 @@
+apartment building
+cave
+condo
+house
+hut
+igloo
+mobile home
+tent
+tepee
+trailer
+wigwam
+yurt

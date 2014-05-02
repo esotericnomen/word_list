@@ -1,0 +1,13 @@
+adult teeth
+baby teeth
+back teeth
+canine
+central incisor
+first molar
+first premolar
+front teeth
+lateral incisor
+second molar
+second premolar
+third molar
+wisdom teeth

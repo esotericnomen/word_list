@@ -1,0 +1,22 @@
+amber
+beige
+black
+blue
+brown
+crimson
+cyan
+grey
+green
+indigo
+khaki
+light blue
+magenta
+orange
+pink
+purple
+red
+violet
+violet red
+white
+yellow
+yellow green

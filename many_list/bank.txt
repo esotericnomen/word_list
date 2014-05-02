@@ -1,0 +1,24 @@
+ATM
+bankbook
+bills
+bounced check
+burglar alarm
+check
+checking account
+coins
+customer
+deposit
+foreign currency rate
+foreign exchange
+forgery
+joint account
+loan
+manager
+money
+passbook
+savings account
+security guard
+teller
+time deposit account
+vault
+withdrawl

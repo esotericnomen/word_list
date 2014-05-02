@@ -1,0 +1,22 @@
+#copyright=Copyright (C) 2005-2006 by Charles Kelly & Lawrence Kelly
+autumn
+carve
+colony
+corn
+cranberry
+cranberry sauce
+dinner
+feast
+grateful
+gravy
+harvest
+native
+parade
+pilgrim
+pumpkin pie
+stuffing
+sweet potato
+thanks
+treaty
+turkey
+yam

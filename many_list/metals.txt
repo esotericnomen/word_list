@@ -1,0 +1,15 @@
+gold
+silver
+iron
+aluminium
+copper
+steel
+brass
+tin
+zinc
+lead
+nickel
+platinum
+titanium
+mercury
+bronze

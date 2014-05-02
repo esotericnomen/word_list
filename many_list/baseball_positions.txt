@@ -1,0 +1,9 @@
+catcher
+center fielder
+first baseman
+left fielder
+pitcher
+right fielder
+second baseman
+short stop
+third baseman

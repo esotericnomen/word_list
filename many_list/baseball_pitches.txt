@@ -1,0 +1,9 @@
+curve
+fast ball
+knuckle ball
+overhand throw
+screwball
+sinker
+slider
+straight ball
+underhand throw

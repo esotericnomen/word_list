@@ -1,0 +1,18 @@
+chapter
+column
+cover
+dog-ear
+edge
+flap
+flyleaf
+groove
+half-title page
+head
+heading
+inside margin
+jacket
+joint
+page number
+running head
+spine
+title page

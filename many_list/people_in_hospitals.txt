@@ -1,0 +1,14 @@
+anethesiologist
+dietician
+doctor
+medical technician
+nurse
+ophthalmologist
+patient
+pediatrician
+physician
+psychiatrist
+security guard
+specialist
+surgeon
+visitor

@@ -1,0 +1,12 @@
+classmate
+coach
+cook
+headmaster
+janitor
+librarian
+president
+principal
+professor
+secretary
+student
+teacher
