@@ -15,5 +15,6 @@ plumage
 plume
 rooster
 talon
+tuft
 unfledged
 vulture

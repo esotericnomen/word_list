@@ -1,0 +1,30 @@
+Bit : “a bit of a problem”
+Crumb : “a crumb of self-respect”
+Dab : “a dab of whipped cream”
+Dash : “a dash of pepper”
+Fleck : “a fleck of dirt”
+Glimmer : “a glimmer of hope”
+Hint : “a hint of cinnamon”
+Iota : “an iota of sense”
+Jot : “a jot of truth”
+Lick : “a lick of sense”
+Modicum : “a modicum of talent”
+Morsel : “a morsel of cheese”
+Nugget : “a nugget of wisdom”
+Pinch : “a pinch of salt”
+Scrap : “a scrap of food”
+Scruple : “a scruple of suspicion”
+Shadow : “a shadow of a doubt”
+Shred : “a shred of evidence”
+Sliver : “a sliver of sunlight”
+Smatter(ing) : “a smattering of laughter”
+Smidgen (or smidge) : “a smidgen of salt”
+Snippet : “a snippet of the conversation”
+Spot : “a spot of rain”
+Sprinkling : “a sprinkling of action”
+Strain : “a strain of weakness”
+Streak : “a streak of cruelty”
+Tidbit : “a tidbit of information”
+Touch : “a touch of humor”
+Trace : “a trace of incense”
+Whisper : “a whisper of autumn”

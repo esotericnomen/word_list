@@ -28,6 +28,7 @@ feral
 fledgling
 fleece
 fodder
+fossorial
 genus
 granary
 graze
@@ -45,6 +46,7 @@ mammal
 marsupial
 menagerie
 mongrel
+molting
 omnivorous
 pachyderm
 parasite
@@ -53,6 +55,7 @@ pedigree
 pen
 phylum
 piebald
+plumage
 predator
 prehensile
 prey
