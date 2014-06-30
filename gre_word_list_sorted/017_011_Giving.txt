@@ -5,7 +5,7 @@ defeatist
 defer
 disgorge
 forfeit
-forgo(forego)
+forgo
 forswear
 renounce
 resign

@@ -1,6 +1,7 @@
 alias
 anonymity
-epaulet(epaulette)
+epaulet 
+epaulette
 fictitious
 incognito
 misnomer

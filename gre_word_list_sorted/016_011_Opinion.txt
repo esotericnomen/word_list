@@ -6,6 +6,6 @@ friction
 heresy
 heterodox
 noncommittal
-polemical(polemic)
+polemical
 supposititious
 sway

@@ -12,5 +12,4 @@ peddle
 peregrination
 trek
 vagrant
-vagrant
 venture

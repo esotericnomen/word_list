@@ -1,0 +1,533 @@
+Abridge	Abbreviated Communication
+Compendium	Abbreviated Communication
+Cursory	Abbreviated Communication
+Curtail	Abbreviated Communication
+Syllabus	Abbreviated Communication
+Synopsis	Abbreviated Communication
+Terse	Abbreviated Communication
+Apace	Act Quickly
+Abrupt	Act Quickly
+Headlong	Act Quickly
+Impetuous	Act Quickly
+Precipitate	Act Quickly
+Abet	Assist
+Advocate	Assist
+Ancillary	Assist
+Bolster	Assist
+Corroborate	Assist
+Countenance	Assist
+Espouse	Assist
+Mainstay	Assist
+Munificent	Assist
+Proponent	Assist
+Stalwart	Assist
+Sustenance	Assist
+Bilious	Bad Mood
+Dudgeon	Bad Mood
+Irascible	Bad Mood
+Pettish	Bad Mood
+Petulant	Bad Mood
+Pique	Bad Mood
+Querulous	Bad Mood
+Umbrage	Bad Mood
+Waspish	Bad Mood
+Dilettante	Beginner/Amateur
+Fledgling	Beginner/Amateur
+Neophyte	Beginner/Amateur
+Novitate	Beginner/Amateur/Innocent/Inexperienced
+Proselyte	Beginner/Amateur
+Tyro	Beginner/Amateur/Innocent/Inexperienced
+Burgeoning	Beginning/Young
+Callow	Beginning/Young
+Engender	Beginning/Young
+Inchoate	Beginning/Young
+Incipient	Beginning/Young
+Nascent	Beginning/Young
+Acerbic	Biting (as in wit or temperament)
+Acidulous	Biting (as in wit or temperament)
+Acrimonious	Biting (as in wit or temperament)
+Asperity	Biting (as in wit or temperament)
+Caustic	Biting (as in wit or temperament)
+Mordacious	Biting (as in wit or temperament)
+Mordant	Biting (as in wit or temperament)
+Trenchant	Biting (as in wit or temperament)
+Audacious	Bold
+Courageous	Bold
+Dauntless	Bold
+Banal	Boring
+Fatuous	Boring
+Hackeneyed	Boring
+Insipid	Boring
+Mundane	Boring
+Pedestrian	Boring
+Platitude	Boring
+Prosaic	Boring
+Quotidian	Boring
+Trite	Boring
+Bacchanalian	Carousal
+Debauchery	Carousal
+Depraved	Carousal
+Dissipated	Carousal
+Inquity	Carousal
+Libertine	Carousal
+Libidinous	Carousal
+Licentious	Carousal
+Reprobate	Carousal
+Ribald	Carousal
+Salacious	Carousal
+Sordid	Carousal
+Turpitude	Carousal
+Capricious	Changing Quickly
+Counterpart	Copy
+Emulate	Copy
+Facsimile	Copy
+Factitious	Copy
+Paradigm	Copy
+Precursor	Copy
+Quintessence	Copy
+Simulated	Copy
+Vicarious	Copy
+Mercurial	Changing Quickly
+Aspersion	Criticize/Criticism
+Belittle	Criticize/Criticism
+Berate	Criticize/Criticism
+Calumny	Criticize/Criticism
+Castigate	Criticize/Criticism
+Decry	Criticize/Criticism
+Defamation	Criticize/Criticism
+Denounce	Criticize/Criticism
+Deride/Derisive	Criticize/Criticism
+Diatribe	Criticize/Criticism
+Disparge	Criticize/Criticism
+Excoriate	Criticize/Criticism
+Gainsay	Criticize/Criticism
+harangue	Criticize/Criticism
+Impugn	Criticize/Criticism
+Inveigh	Criticize/Criticism
+Lambaste	Criticize/Criticism
+Objurgate	Criticize/Criticism
+Obloquy	Criticize/Criticism
+Opprobrium	Criticize/Criticism
+Pillory	Criticize/Criticism
+Rebuke	Criticize/Criticism
+Remonstrate	Criticize/Criticism/Nag
+Reprehend	Criticize/Criticism
+Reprove	Criticize/Criticism
+Revile	Criticize/Criticism
+Tirade	Criticize/Criticism
+Vituperate	Criticize/Criticism
+Bereave	Death/Mourning
+Cadaver	Death/Mourning
+Defunct	Death/Mourning
+Demise	Death/Mourning
+Dolorous	Death/Mourning
+Elegy	Death/Mourning
+Knell	Death/Mourning
+Lament	Death/Mourning
+Macabre	Death/Mourning
+Moribund	Death/Mourning
+Obsequies	Death/Mourning
+Sepulchral	Death/Mourning
+Wraith	Death/Mourning
+Abnegate	Denying of Self
+Abstain	Denying of Self
+Ascetic	Denying of Self
+Spartan	Denying of Self
+Stoic	Denying of Self
+Temperate	Denying of Self
+Authoritarian	Dictorial
+Despotic	Dictorial
+Dogmatic	Dictorial
+Hegmonic (Hegemony)	Dictorial
+Imperious	Dictorial
+Peremptory	Dictorial
+Tyrannical	Dictorial
+Abstruse	Difficult to Understand
+Ambiguous	Difficult to Understand
+Arcane	Difficult to Understand
+Bemusing	Difficult to Understand
+Cryptic	Difficult to Understand
+Enigmatic	Difficult to Understand
+Esoteric	Difficult to Understand
+Inscrutable	Difficult to Understand
+Obscure	Difficult to Understand
+Opaque	Difficult to Understand
+Paradoxical	Difficult to Understand
+Perplexing	Difficult to Understand
+Recondite	Difficult to Understand
+Turbid	Difficult to Understand
+Defile	Disgusting/Offensive
+Fetid	Disgusting/Offensive
+Invidious	Disgusting/Offensive
+Noisome	Disgusting/Offensive
+Odious	Disgusting/Offensive
+Putrid	Disgusting/Offensive
+Rebarbative	Disgusting/Offensive
+Articulate	Easy To Understand
+Cogent	Easy To Understand
+Eloquent	Easy To Understand
+Evident	Easy To Understand
+Limpid	Easy To Understand
+Lucid	Easy To Understand
+Pellucid	Easy To Understand
+Aberrant	Eccentric/Dissimilar
+Anachronism	Eccentric/Dissimilar
+Anomalous	Eccentric/Dissimilar
+Discrete	Eccentric/Dissimilar
+Eclectic	Eccentric/Dissimilar
+Esoteric	Eccentric/Dissimilar
+Iconoclast	Eccentric/Dissimilar
+Abash	Embarrass
+Chagrin	Embarrass
+Compunction	Embarrass
+Contrition	Embarrass
+Diffidence	Embarrass
+Expiate	Embarrass
+Foible	Embarrass
+Gaucherie	Embarrass
+Rue	Embarrass
+Equitable	Equal
+Equity	Equal
+Tantamount	Equal
+Apocryphal	Falsehood
+Canard	Falsehood
+Chicanery	Falsehood
+Dissemble	Falsehood
+Duplicity	Falsehood
+Equivocate	Falsehood
+Erroneous	Falsehood
+Ersatz	Falsehood
+Fallacious	Falsehood
+Feigned	Falsehood
+Guile	Falsehood
+Mendacious/Mendacity	Falsehood
+Perfidy	Falsehood
+Prevaricate	Falsehood
+Specious	Falsehood
+Spurious	Falsehood
+Conjugal	Family
+Consanguine	Family
+Distaff	Family
+Endogamous	Family
+Filial	Family
+Fratricide	Family
+Progenitor	Family
+Scion	Family
+Ardor/Adrent	Favoring/Not Impartial
+Doctrinaire	Favoring/Not Impartial
+Fervid	Favoring/Not Impartial
+Partisan	Favoring/Not Impartial
+Tendentious	Favoring/Not Impartial
+Zealout	Favoring/Not Impartial
+Absolve	Forgive
+Acquit	Forgive
+Exculpate	Forgive
+Expiate	Forgive
+Palliate	Forgive
+Redress	Forgive
+Vindicate	Forgive
+Chortle	Funny
+Droll	Funny
+Facetious	Funny
+Flippant	Funny
+Gibe	Funny
+Jocular	Funny
+Levity	Funny
+Ludicrous	Funny
+Raillery	Funny
+Riposte	Funny
+Simper	Funny
+Abatement	Gaps/Openings
+Aperture	Gaps/Openings
+Fissure	Gaps/Openings
+Hiatus	Gaps/Openings
+Interregnum	Gaps/Openings
+Interstice	Gaps/Openings
+Lull	Gaps/Openings
+Orifice	Gaps/Openings
+Rent	Gaps/Openings
+Respite	Gaps/Openings
+Rift	Gaps/Openings
+Altruistic	Generous/Kind
+Beneficent	Generous/Kind
+Clement	Generous/Kind
+Largess	Generous/Kind
+Magnanimous	Generous/Kind
+Munificent	Generous/Kind
+Philanthropic	Generous/Kind
+Unstinting	Generous/Kind
+Avaricious	Greedy
+Covetous	Greedy
+Mercenary	Greedy
+Miserly	Greedy
+Penurious	Greedy
+Rapacious	Greedy
+Venal	Greedy
+Asperity	Hardhearted
+Baleful	Hardhearted/Harmful
+Dour	Hardhearted
+Fell	Hardhearted
+Malevolent	Hardhearted
+Mordant	Hardhearted
+Sardonic	Hardhearted
+Scathing	Hardhearted
+Truculent	Hardhearted
+Vitriolic	Hardhearted
+Vituperation	Hardhearted
+Baneful	Harmful
+Deleterious	Harmful
+Inimical	Harmful
+Injurious	Harmful
+Insidious	Harmful
+Minatory	Harmful
+Perfidious	Harmful
+Pernicious	Harmful
+Cacophony	Harsh-Sounding
+Din	Harsh-Sounding
+Dissonant	Harsh-Sounding
+Raucous	Harsh-Sounding
+Strident	Harsh-Sounding
+Abhorrence	Hatred
+Anathema	Hatred
+Antagonism	Hatred
+Antipathy	Hatred
+Detestation	Hatred
+Enmity	Hatred
+Loathing	Hatred
+Malice	Hatred
+Odium	Hatred
+Rancor	Hatred
+Beneficial	Healthy
+Salubrious	Healthy
+Salutary	Healthy
+Dither	Hesitate
+Oscillate	Hesitate
+Teeter	Hesitate
+Vacillate	Hesitate
+Waver	Hesitate
+Antithetic	Hostile
+Churlish	Hostile
+Curmudgeon	Hostile
+Irascible	Hostile
+Malevolent	Hostile
+Misanthropic	Hostile
+Truculent	Hostile
+Vindictive	Hostile
+Credulous	Innocent/Inexperienced
+Gullible	Innocent/Inexperienced
+Ingenuous	Innocent/Inexperienced
+Naive	Innocent/Inexperienced
+Disingenuous	Insincere
+Dissemble	Insincere
+Fulsome	Insincere
+Ostensible	Insincere
+Unctuous	Insincere
+Appraise	Investigate
+Ascertain	Investigate
+Assay	Investigate
+Descry	Investigate
+Peruse	Investigate
+Indolent	Lazy/Sluggish
+Inert	Lazy/Sluggish
+Lackadaisical	Lazy/Sluggish
+Languid	Lazy/Sluggish
+Lassitude	Lazy/Sluggish
+Lethargic	Lazy/Sluggish
+Phlegmatic	Lazy/Sluggish
+Quiescent	Lazy/Sluggish
+Slothful	Lazy/Sluggish
+Torpid	Lazy/Sluggish
+Adventitious	Luck
+Amulet	Luck
+Auspicious	Luck
+Fortuitous	Luck
+Kismet	Luck
+Optimum	Luck
+Portentous	Luck/Predict
+Propitiate	Luck/Pacify/Satisfy
+Propitious	Luck
+Providential	Luck
+Talisman	Luck
+Admonish	Nag
+Cavil	Nag
+Belabor	Nag
+Enjoin	Nag
+Exhort	Nag
+Harangue	Nag
+Hector	Nag
+Martinet	Nag
+Reproof	Nag
+Fetid	Nasty
+Noisome	Nasty
+Noxious	Nasty
+Askance	Not A Straight Line
+Awry	Not A Straight Line
+Careen	Not A Straight Line
+Carom	Not A Straight Line
+Circuitous	Not A Straight Line
+Circumvent	Not A Straight Line
+Gyrate	Not A Straight Line
+Labyrinth	Not A Straight Line
+Meander	Not A Straight Line
+Oblique	Not A Straight Line
+Serrated	Not A Straight Line
+Sidle	Not A Straight Line
+Sinuous	Not A Straight Line
+Undulating	Not A Straight Line
+Vortex	Not A Straight Line
+Bombastic	Overblown/Wordy
+Circumlocution	Overblown/Wordy
+Garrulous	Overblown/Wordy
+Grandiloquent	Overblown/Wordy
+Loquacious	Overblown/Wordy
+Periphrastic	Overblown/Wordy
+Prolix	Overblown/Wordy
+Rhetoric	Overblown/Wordy
+Turgid	Overblown/Wordy
+Verbose	Overblown/Wordy
+Ameliorate	Pacify/Satisfy
+Appease	Pacify/Satisfy
+Assuage	Pacify/Satisfy
+Defer	Pacify/Satisfy
+Mitigate	Pacify/Satisfy
+Mollify	Pacify/Satisfy
+Placate	Pacify/Satisfy
+Satiate	Pacify/Satisfy
+Slake	Pacify/Satisfy
+Sooth	Pacify/Satisfy
+Euphonious	Pleasant-Sounding
+Harmonious	Pleasant-Sounding
+Melodious	Pleasant-Sounding
+Sonorous	Pleasant-Sounding
+Destitute	Poor
+Esurient	Poor
+Impecunious	Poor
+Indigent	Poor
+Acclaim	Praise
+Accolade	Praise
+Aggrandize	Praise
+Encomium	Praise
+Eulogize	Praise
+Extol	Praise
+Fawn	Praise
+Laud/Laudatory	Praise
+Venerate/Veneration	Praise
+Augur	Predict
+Auspice	Predict
+Fey	Predict
+Harbinger	Predict
+Presage	Predict
+Presage	Predict
+Prescient	Predict
+Prognosticate	Predict
+Discomfort	Prevent/Obstruct
+Encumber	Prevent/Obstruct
+Fetter	Prevent/Obstruct
+Forfend	Prevent/Obstruct
+Hinder	Prevent/Obstruct
+Impede	Prevent/Obstruct
+Inhibit	Prevent/Obstruct
+Occlude	Prevent/Obstruct
+Astute	Smart/Learned
+Canny	Smart/Learned
+Erudite	Smart/Learned
+Perspacious	Smart/Learned
+Disconsolate	Sorrow
+Doleful	Sorow
+Elegiac	Sorrow
+Forlorn	Sorrow
+Lament	Sorrow
+Lugubrious	Sorrow
+Melancholy	Sorrow
+Morose	Sorrow
+Plaintive	Sorrow
+Threnody	Sorrow
+Implacable	Stubborn
+Inexorable	Stubborn
+Intransigent	Stubborn
+Obdurate	Stubborn
+Obstinate	Stubborn
+Recalcitrant	Stubborn
+Refractory	Stubborn
+Renitent	Stubborn
+Untoward	Stubborn
+Vexing	Stubborn
+Compendious	Terse
+Curt	Terse
+Laconic	Terse
+Pithy	Terse
+Succint	Terse
+Taciturn	Terse
+Anachronism	Time/Order/Duration
+Antecede	Time/Order/Duration
+Antedate	Time/Order/Duration
+Archaic	Time/Order/Duration
+Anterior	Time/Order/Duration
+Diurnal	Time/Order/Duration
+Eon	Time/Order/Duration
+Ephemeral	Time/Order/Duration
+Epoch	Time/Order/Duration
+Fortnight	Time/Order/Duration
+Millenium	Time/Order/Duration
+Penultimate	Time/Order/Duration
+Synchronous	Time/Order/Duration
+Temporal	Time/Order/Duration
+Craven	Timid/Timidity
+Diffident	Timid/Timidity
+Pusillanimous	Timid/Timidity
+Recreant	Timid/Timidity
+Timorous	Timid/Timidity
+Trepidation	Timid/Timidity
+Candor/Candid	Truth
+Fealty	Truth
+Frankness	Truth
+Indisputable	Truth
+Indubitable	Truth
+Legitimate	Truth
+Probity	Truth
+Sincere	Truth
+Veracious	Truth
+Verity	Truth
+Aberration	Unusual
+Anomaly	Unusual
+Iconoclast	Unusual
+Idiocyncrasy	Unusual
+Ambulatory	Walking About
+Itinerant	Walking About/Wandering
+Peripatetic	Walking About/Wandering
+Discursive	Wandering
+Expatiate	Wandering
+Forage	Wandering
+Peregrination	Wandering
+Sojourn	Wandering
+Adulterate	Weaken
+Enervate	Weaken
+Exacerbate	Weaken
+Inhibit	Weaken
+Obviate	Weaken
+Stultify	Weaken
+Undermine	Weaken
+Vitiate	Weaken
+Adage	Wisdom
+Aphorism	Wisdom
+Apothegm	Wisdom
+Axiom	Wisdom
+Bromide	Wisdom
+Dictum	Wisdom
+Epigram	Wisdom
+Platitude	Wisdom
+Sententious	Wisdom
+Truism	Wisdom
+Abeyance	Withdrawal/Retreat
+Abjure	Withdrawal/Retreat
+Abnegation	Withdrawal/Retreat
+Abortive	Withdrawal/Retreat
+Abrogate	Withdrawal/Retreat
+Decamp	Withdrawal/Retreat
+Demur	Withdrawal/Retreat
+Recant	Withdrawal/Retreat
+Recidicism	Withdrawal/Retreat
+Remission	Withdrawal/Retreat
+Rescind	Withdrawal/Retreat
+Renege	Withdrawal/Retreat
+Retrograde	Withdrawal/Retreat
