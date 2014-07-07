@@ -14,7 +14,6 @@ die
 essay
 exact
 fell
-fell
 flag
 flip
 ford
@@ -39,7 +38,6 @@ rail
 rent
 quail
 qualify
-sap
 sap
 scurvy
 singular
