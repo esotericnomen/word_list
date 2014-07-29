@@ -40,7 +40,7 @@ cupidity
 deadpan
 demeanor
 demented
-demoniac(demoniacal)
+demoniac
 deranged
 desperado
 diabolical
@@ -131,7 +131,7 @@ mendacious
 meticulous
 miserly
 munificent
-naivety(naivet'e)
+naivety
 narcissism
 niggardly
 nihilist
@@ -180,7 +180,7 @@ renown
 reputable
 ribald
 righteous
-roue(rou'e)
+roue
 ruthless
 sadistic
 sagacious
@@ -192,7 +192,7 @@ sham
 shrewd
 shyster
 skinflint
-skulduggery(skullduggery)
+skulduggery
 sleazy
 slovenly
 solicitous
@@ -218,7 +218,7 @@ touchy
 turncoat
 tyranny
 unassuming
-underhand(underhanded)
+underhand
 unfeigned
 unruly
 upright

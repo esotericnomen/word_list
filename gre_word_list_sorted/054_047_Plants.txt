@@ -5,7 +5,7 @@ chaff
 conifer
 deciduous
 defoliate
-entree(entr'ee)
+entree
 extirpate
 fallow
 flora

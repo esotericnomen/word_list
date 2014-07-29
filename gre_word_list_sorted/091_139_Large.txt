@@ -13,7 +13,7 @@ bountiful
 breadth
 brevity
 bulk
-caldron(cauldron)
+caldron
 caustic
 climactic
 colossal
@@ -71,7 +71,7 @@ medium
 meteoric
 microcosm
 miniature
-minuscule(miniscule)
+minuscule
 minute
 misconduct
 modicum

@@ -1,0 +1,8862 @@
+
+abase :
+  mortify
+  chagrin
+  humble
+  demean
+
+abash :
+  disconcert
+
+abate :
+  slake
+  slack
+
+abbreviate :
+  abridge
+  reduce
+  bowdlerize
+  expurgate
+  castrate
+
+abdicate :
+  renounce
+
+aberrant :
+  deviate
+
+aberration :
+  warp
+
+abet :
+
+abeyance :
+  recess
+  moratorium
+
+abhor :
+  loathe
+  abominate
+  execrate
+
+abide :
+  brook
+
+abject :
+  low
+  scurvy
+
+abjure :
+  recant
+  forswear
+  retract
+
+ablution :
+
+abnegation :
+
+abode :
+  domicile
+  hermitage
+
+abolish :
+  abrogate
+
+abominable :
+  execrable
+  odious
+  awful
+
+aboriginal :
+  primal
+  primordial
+
+abortive :
+
+abrasive :
+
+abscission :
+
+abscond :
+  bolt
+
+absolute :
+  rank
+  sheer
+  inviolable
+
+absolve :
+  exempt
+
+abstain :
+  refrain
+
+abstemious :
+  light
+
+abstention :
+  abstinence
+
+abstract :
+  precis
+  epitome
+  pilfer
+  pinch
+  swipe
+  sneak
+  filch
+
+abstruse :
+  recondite
+
+abusive :
+  scurrilous
+
+abut :
+  adjoin
+
+abysmal :
+
+abyss :
+  expiate
+  atone
+
+academic :
+  pedantic
+
+accede :
+  defer
+  assent
+  acquiesce
+
+accelerate :
+  brisk
+
+accessible :
+
+accessory :
+  trappings
+  adjunct
+  ancillary
+  auxiliary
+
+acclaim :
+  plaudit
+  hail
+  herald
+  clap
+  spat
+
+acclimate :
+
+acclivity :
+
+accolade :
+  palm
+  cachet
+  prize
+
+accommodate :
+  fit
+  adapt
+  orient
+  transcribe
+  reconcile
+  conciliate
+
+accomplice :
+  decoy
+
+accord :
+  unison
+  unanimity
+  consensus
+  conformity
+  convention
+  consort
+  concord
+  enfranchise
+
+accost :
+  address
+  solicit
+
+accoutre :
+
+accretion :
+  deposition
+
+accrue :
+
+acerbic :
+  astringent
+  acrid
+  bitter
+  caustic
+  virulent
+  vitriolic
+
+acerbity :
+  jaundice
+
+acetic :
+
+acidulous :
+
+acknowledge :
+  avow
+  sustain
+  concede
+  cite
+  appreciate
+
+acme :
+  elevation
+  pinnacle
+  vertex
+  apex
+
+acne :
+
+acoustics :
+
+acquittal :
+
+acrimonious :
+
+acrophobia :
+
+actuarial :
+
+actuary :
+
+actuate :
+  trigger
+  prompt
+  incite
+
+acuity :
+
+acumen :
+
+acute :
+  discriminating
+  incisive
+
+adage :
+  proverb
+
+adamant :
+  inexorable
+  intransigent
+
+addendum :
+
+addiction :
+
+addle :
+  muddle
+
+adept :
+  champion
+  virtuoso
+
+adhere :
+  cleave
+  cohere
+
+adherent :
+  animist
+
+adjacent :
+  contiguous
+
+adjourn :
+
+adjuration :
+
+adjure :
+  bid
+  beseech
+  entreat
+  conjure
+
+adjutant :
+
+admonish :
+  reprove
+
+adore :
+
+adorn :
+  embellish
+  fret
+  trim
+  garnish
+  illuminate
+  gild
+  braid
+  flag
+  embroider
+  spangle
+  fringe
+  bard
+  bedizen
+  emblazon
+  prank
+  beset
+
+adroit :
+
+adulation :
+
+adulterate :
+  dilute
+  debase
+
+advent :
+
+adventitious :
+
+adversary :
+
+adverse :
+  untoward
+
+adversity :
+  catastrophe
+  affliction
+  nadir
+
+advert :
+  allude
+  invoke
+
+advocacy :
+
+advocate :
+  proponent
+  suffragist
+  teleologist
+  humanitarian
+  apologist
+  ideologist
+  partisan
+  zealot
+  protagonist
+  urge
+
+aegis :
+
+aerie :
+
+aerology :
+
+aesthetic :
+
+aetiologist :
+  etiologist
+
+aetiology :
+  etiology
+
+affable :
+  amiable
+  cordial
+
+affected :
+  tinge
+  distort
+  queer
+  expose
+  energize
+  intoxicate
+  inebriate
+  sedate
+  calm
+  implicate
+  feign
+  sham
+  pretend
+  dissemble
+  fake
+  alienate
+
+affidavit :
+
+affiliation :
+
+affinity :
+  rapport
+
+affirmation :
+
+affluence :
+
+affront :
+  indignity
+  outrage
+
+afterlife :
+  hereafter
+
+agape :
+
+agenda :
+  docket
+
+agglomeration :
+
+aggrandize :
+
+aggregate :
+  conglomeration
+  mass
+
+aghast :
+
+agility :
+
+agitate :
+  foment
+  shift
+  palpitate
+  thresh
+  thrash
+  toss
+  tremor
+  wiggle
+  vex
+  roil
+  rile
+
+agnostic :
+
+agog :
+
+agrarian :
+
+agrobiology :
+
+agrology :
+
+agronomist :
+
+airy :
+  visionary
+  ethereal
+
+alacrity :
+
+alarmist :
+
+alchemist :
+
+alchemy :
+
+alcove :
+  cubicle
+
+algology :
+  phycology
+
+alias :
+
+alimentary :
+  nutrient
+  nutritious
+
+alimony :
+
+allay :
+  quench
+  assuage
+
+allege :
+  aver
+
+allegiance :
+
+allegory :
+  fable
+  parable
+
+allergology :
+
+alleviate :
+  palliate
+  facilitate
+
+alliteration :
+
+allocate :
+  ration
+
+alloy :
+  solder
+  amalgam
+
+allure :
+
+alluvial :
+
+alms :
+
+aloft :
+
+aloof :
+  distant
+
+altercation :
+  fracas
+
+altruism :
+
+altruist :
+  philanthropist
+
+altruistic :
+
+amalgamate :
+  mingle
+  compound
+  concoct
+
+amalgamation :
+  merger
+
+amass :
+  conglomerate
+  compile
+  hoard
+
+amatory :
+  amorous
+
+amazon :
+
+ambidextrous :
+
+ambience :
+  miasma
+
+ambiguous :
+  equivocal
+
+ambivalence :
+
+amble :
+  saunter
+  ramble
+  meander
+
+ambrosia :
+  nectar
+
+ambulatory :
+
+ambush :
+  waylay
+  lurk
+
+ameliorate :
+  amend
+  hone
+  enhance
+  emend
+  fructify
+  sublimate
+  distill
+  recuperate
+  surge
+
+amenable :
+  tractable
+
+amenities :
+
+amicable :
+
+amiss :
+  awry
+
+amity :
+
+amnesia :
+
+amnesty :
+
+amok :
+  berserk
+  demoniac
+
+amoral :
+
+amorphous :
+
+amphibian :
+
+amphibology :
+
+amphitheater :
+
+ample :
+  copious
+
+amplify :
+  tout
+  brag
+  bluster
+
+amputate :
+
+amulet :
+  talisman
+
+anachronism :
+
+anachronistic :
+
+analgesia :
+
+analgesic :
+  anodyne
+
+analogist :
+
+analogous :
+
+analogy :
+
+anarchist :
+  nihilist
+
+anarchy :
+
+anathema :
+
+anatomist :
+  histologist
+  osteologist
+
+ancestry :
+  lineage
+  pedigree
+  stock
+  derivation
+
+anchor :
+
+androgen :
+
+androgynous :
+
+anecdote :
+
+anemia :
+
+anesthesiologist :
+
+anesthesiology :
+
+anesthetic :
+
+angelology :
+
+angiologist :
+
+angiology :
+
+anguish :
+
+angular :
+
+animadversion :
+  censure
+  interdict
+
+animated :
+  enliven
+  exalt
+  renovate
+
+animosity :
+  animus
+
+annals :
+
+anneal :
+  temper
+
+annex :
+
+annihilate :
+  decimate
+
+annotate :
+  gloss
+
+annuity :
+
+annul :
+  invalidate
+  quash
+  nullify
+  revoke
+  countermand
+  repeal
+  overturn
+  rescind
+  renege
+
+anoint :
+
+anomalous :
+
+anomaly :
+  behemoth
+  colossus
+  eccentric
+  automaton
+
+anonymity :
+
+antagonism :
+  hostility
+  enmity
+  tension
+
+antecede :
+  forgo
+
+antecedents :
+  progenitor
+  forerunner
+
+antediluvian :
+  antiquated
+  archaic
+
+anthem :
+  paean
+  doxology
+
+anthologist :
+
+anthology :
+  miscellany
+
+anthropoid :
+  ape
+
+anthropologist :
+  archeologist
+  archaeologist
+  ethnologist
+
+anthropology :
+  ethnology
+  archeology
+  archaeology
+
+anthropomorphic :
+
+anticlimax :
+  bathos
+
+antidote :
+
+antipathy :
+  aversion
+
+antipodal :
+
+antique :
+  outmoded
+  passe
+
+antiquity :
+  relic
+
+antiseptic :
+
+antithesis :
+
+antler :
+
+anvil :
+
+apartheid :
+
+apathy :
+  languor
+  lassitude
+
+aperture :
+  pore
+
+aphasia :
+
+aphorism :
+  apothegm
+
+apiarist :
+
+apiary :
+
+apiculture :
+
+aplomb :
+  poise
+
+apocalyptic :
+
+apocryphal :
+
+apogee :
+  culmination
+
+apolitical :
+
+apology :
+
+apoplexy :
+
+apostasy :
+  defection
+
+apostate :
+  renegade
+  turncoat
+  recreant
+
+apostrophe :
+
+apothecary :
+  chemist
+  pharmacologist
+
+apotheosis :
+  paragon
+
+appall :
+
+apparent :
+  manifest
+  patent
+  ostensible
+
+apparition :
+  shade
+
+appease :
+  pacify
+  mollify
+  placate
+  gentle
+  quell
+  propitiate
+
+appellation :
+  denomination
+  title
+
+append :
+
+application :
+  technology
+  diligence
+
+apposite :
+  pertinent
+
+appraise :
+  censor
+  score
+
+apprehend :
+  comprehend
+  figure
+
+apprehensive :
+  discerning
+
+apprise :
+
+approbation :
+
+appropriate :
+  earmark
+  reserve
+
+appurtenances :
+  paraphernalia
+  rig
+  outfit
+
+apropos :
+
+aptitude :
+
+aquiline :
+
+arable :
+
+arbiter :
+
+arbitrary :
+
+arbitrate :
+  mediate
+
+arboreal :
+
+arboretum :
+
+arcade :
+
+arcane :
+
+arch- :
+
+archetype :
+
+archipelago :
+
+archives :
+
+ardor :
+  zeal
+  fervor
+
+arduous :
+  grueling
+  laborious
+
+argot :
+  cant
+  jargon
+  patois
+  vernacular
+
+aria :
+
+arid :
+  desiccate
+
+aristocracy :
+  gentry
+
+armada :
+
+aromatic :
+  redolent
+
+arraign :
+
+array :
+  matrix
+  spectrum
+  panoply
+  bank
+  raiment
+
+arrears :
+
+arrhythmic :
+
+arrogance :
+  haughtiness
+  hubris
+
+arrogate :
+  requisition
+  usurp
+
+arroyo :
+
+arsenal :
+
+artery :
+
+artful :
+  disingenuous
+
+articulate :
+  enunciate
+  sound
+
+artifacts :
+
+artifice :
+  ruse
+
+artisan :
+  mason
+  taxidermist
+  tanner
+  plumber
+  ceramist
+
+artless :
+  ingenuous
+
+ascendancy :
+  tyranny
+
+ascertain :
+  rectify
+  enumerate
+  check
+
+ascetic :
+  austere
+  spartan
+
+ascribe :
+  impute
+  attribute
+  personify
+
+aseptic :
+  sterile
+
+ashen :
+  livid
+
+asinine :
+  fatuous
+  inane
+  vacuous
+
+askance :
+
+askew :
+  lopsided
+
+asperity :
+  rigor
+  severity
+
+aspersion :
+  slur
+  calumny
+  slander
+  defamation
+
+aspirant :
+
+aspire :
+
+assail :
+  bait
+  desecrate
+  profane
+  violate
+  dishonor
+  besiege
+  beleaguer
+  circumvent
+  torpedo
+  bust
+  barrage
+  rip
+
+assay :
+  hazard
+
+assert :
+  swear
+  attest
+
+assiduous :
+  sedulous
+
+assimilate :
+  imbibe
+
+assumption :
+  premise
+  thesis
+  scenario
+  supposition
+  base
+  effrontery
+
+assurance :
+  confidence
+  warrant
+  warranty
+  plight
+  troth
+
+assyriology :
+
+asteroid :
+
+astigmatism :
+
+astral :
+  stellar
+
+astrobiology :
+  exobiology
+
+astrologist :
+
+astrology :
+
+astronomical :
+
+astute :
+  shrewd
+
+asunder :
+
+asylum :
+  sanctuary
+  harbor
+  institution
+
+asymmetric :
+
+atavism :
+
+atheistic :
+
+atrocity :
+  enormity
+
+atrophy :
+
+attentive :
+
+attenuate :
+
+attire :
+  finery
+  preen
+  primp
+  plume
+
+attrition :
+
+atypical :
+
+audacious :
+  brave
+  dauntless
+  hardy
+  intrepid
+  barefaced
+  brazen
+  insolent
+  venturesome
+
+audacity :
+  temerity
+
+audiology :
+
+audit :
+  scrutinize
+
+augment :
+
+augury :
+  presage
+  prodigy
+
+august :
+  venerable
+
+aureole :
+
+auroral :
+
+auspicious :
+
+authenticate :
+
+authoritarian :
+  martinet
+  autocratic
+  overbearing
+
+authoritative :
+  definitive
+
+autonomous :
+  sovereign
+
+autonomy :
+
+autopsy :
+  postmortem
+
+avalanche :
+
+avantgarde :
+
+avarice :
+  cupidity
+
+avenge :
+  retaliate
+
+averse :
+  loath
+
+avert :
+  debar
+  obviate
+  deflect
+
+aviary :
+
+avid :
+
+avocation :
+  speleology
+  spelaeology
+
+avuncular :
+
+awe :
+  cow
+
+awl :
+
+axiology :
+
+axiom :
+  maxim
+  gnome
+
+azure :
+
+babble :
+
+bacchanal :
+  orgy
+  debauch
+  bacchanalian
+
+Bacchanalia :
+
+backslide :
+
+bacteriologist :
+
+bacteriology :
+
+badger :
+
+badinage :
+
+baffle :
+  puzzle
+  pose
+  stupefy
+  nonplus
+  dumbfound
+  stump
+  riddle
+  thwart
+  scotch
+  foil
+  cross
+  frustrate
+  bilk
+
+baleful :
+  minatory
+  ominous
+  sinister
+
+balk :
+  hindrance
+  deterrent
+  impediment
+
+ballast :
+
+balm :
+  unction
+  unguent
+
+balmy :
+
+banal :
+  commonplace
+  hackneyed
+  threadbare
+  trite
+
+bandy :
+
+bane :
+  scourge
+  nemesis
+
+bantering :
+  chaff
+  jolly
+  facetious
+
+bar :
+  buffet
+  shackle
+  rail
+  tablet
+  relegate
+
+barb :
+  jibe
+  gibe
+  fluke
+
+bargain :
+  haggle
+
+baroque :
+
+barrister :
+
+barterer :
+
+bask :
+  relish
+  savor
+
+bastard :
+  mongrel
+  bogus
+
+bastion :
+  citadel
+
+bate :
+
+battalion :
+
+bauble :
+  novelty
+  trinket
+
+bawdy :
+  ribald
+
+bearing :
+  posture
+  fawn
+  gestate
+  litter
+  whelp
+  retain
+  confine
+  yield
+  deport
+  comport
+  fluster
+  stoop
+
+beatific :
+
+beatitude :
+  nirvana
+
+bedraggle :
+
+beeline :
+
+befuddle :
+  fuddle
+  confound
+
+beget :
+  engender
+  generate
+
+begrudge :
+
+beguile :
+  hoodwink
+  trance
+  charm
+  bewitch
+  entrance
+
+beholden :
+
+behoove :
+
+belabor :
+
+belated :
+  tardy
+
+belie :
+  negate
+  falsify
+
+belittle :
+  denigrate
+  disparage
+  discredit
+  deprecate
+  depreciate
+  pan
+
+bellicose :
+
+belligerent :
+  pugilist
+  militant
+
+bemoan :
+  deplore
+  lament
+
+bemused :
+
+benediction :
+  benison
+
+benefactor :
+
+beneficent :
+  benevolent
+  philanthropic
+
+beneficial :
+
+beneficiary :
+
+benefit :
+  perquisite
+
+benign :
+
+bent :
+  knack
+  creep
+  cringe
+  cower
+  grovel
+  replicate
+  gnarl
+
+bequeath :
+  devise
+  entail
+
+berate :
+  rebuke
+  rag
+  reprimand
+  chide
+  remonstrate
+  chastise
+  castigate
+  chasten
+
+bereaved :
+  bereft
+
+bereavement :
+
+besmirch :
+  defame
+  smear
+  sully
+  libel
+  malign
+  traduce
+
+bestial :
+
+bestow :
+  graduate
+  impart
+
+betoken :
+  bode
+  portend
+  prognosticate
+  foreshadow
+  prefigure
+
+betray :
+  denounce
+  gull
+  dupe
+
+betroth :
+  engage
+
+bevy :
+
+beware :
+
+bicameral :
+
+bicker :
+  squabble
+  quibble
+  niggle
+
+biennial :
+
+bifurcated :
+
+bigamist :
+
+bigot :
+  chauvinist
+  sectarian
+
+bigotry :
+
+bilateral :
+
+bilious :
+  dyspeptic
+
+billow :
+  wallow
+
+billowing :
+
+biochemist :
+  enzymologist
+
+bioclimatology :
+
+biologist :
+  microbiologist
+  ecologist
+  physiologist
+  sociobiologist
+  taxonomist
+  radiobiologist
+  neurobiologist
+  phytologist
+  cytologist
+  zoologist
+
+biology :
+  cryobiology
+  phytology
+  physiology
+  morphology
+  embryology
+  sociobiology
+  zoology
+  cytology
+  radiobiology
+  paleobiology
+  palaeobiology
+  microbiology
+  neurobiology
+  ecology
+
+biometrics :
+
+biotechnology :
+
+biting :
+  nip
+  nettle
+  pungent
+
+bivouac :
+  camp
+
+bizarre :
+  outlandish
+
+blackball :
+  ostracize
+  shun
+  veto
+
+blanch :
+
+bland :
+  insipid
+  vapid
+  politic
+
+bland :
+
+blandishment :
+
+blare :
+  cacophony
+  clamor
+  din
+
+blase :
+  worldly
+
+blasphemy :
+
+blatant :
+  strident
+  vociferous
+
+bleak :
+  desolate
+
+blemish :
+  defect
+  mar
+  chip
+  stigma
+  gouge
+  smudge
+  daub
+  deface
+  disfigure
+  maul
+  mangle
+
+blight :
+
+blighted :
+
+bliss :
+  ecstasy
+  rapture
+
+blissful :
+
+blithe :
+
+blithe :
+
+bloated :
+  distend
+
+blotch :
+
+blowhard :
+  braggart
+
+bludgeon :
+  sap
+
+blue :
+  grim
+  dispirited
+  downcast
+  patrician
+  dingy
+  disconsolate
+  drab
+
+blues :
+
+bluff :
+
+blunder :
+  bungle
+  botch
+  stumble
+  fumble
+  gaffe
+  solecism
+  blurt
+
+blunt :
+  dull
+  petrify
+  forthright
+  outspoken
+
+blush :
+  flush
+
+bog :
+  mire
+  quagmire
+  slough
+
+bohemian :
+
+boisterous :
+  unruly
+
+bolster :
+
+bombardment :
+  onslaught
+
+bombast :
+  rant
+
+bombastic :
+  tumid
+  turgid
+
+bookish :
+  studious
+
+boon :
+
+boor :
+
+boorish :
+
+boost :
+  promote
+  foster
+
+bouillon :
+
+bound :
+  margin
+  perimeter
+  periphery
+  brink
+  verge
+  mete
+  reverberate
+  throttle
+  inhibit
+  hamper
+  strangle
+  encumber
+  encircle
+  swathe
+  indenture
+  lace
+  leash
+
+bountiful :
+  handsome
+
+bourgeois :
+  entrepreneur
+
+bout :
+
+bovine :
+
+brackish :
+
+braggadocio :
+
+brand :
+  firebrand
+  demerit
+
+brandish :
+  flourish
+
+bravado :
+
+brawl :
+  wrangle
+
+brawn :
+
+brawny :
+  sinewy
+
+breach :
+  rift
+  schism
+  intrude
+  infringe
+  contravene
+
+breadth :
+
+breed :
+  spawn
+  crossbreed
+
+brevity :
+
+bridle :
+  curb
+
+brim :
+
+brindled :
+
+bristle :
+
+bristling :
+
+brittle :
+
+broach :
+  brooch
+  initiate
+
+brocade :
+
+brochure :
+
+broil :
+
+bromide :
+  platitude
+  cliche
+
+brood :
+  hover
+  loom
+  dominate
+  eclipse
+  hatch
+  incubate
+
+browbeat :
+  bully
+  domineer
+  swagger
+
+browse :
+  graze
+
+bruise :
+  contusion
+
+brunt :
+
+brusque :
+
+buccaneer :
+
+bucolic :
+  provincial
+  idyll
+  pastoral
+
+buffoon :
+  clown
+  zany
+
+buffoonery :
+
+bugaboo :
+
+bugologist :
+  entomologist
+  lepidopterologist
+
+bugology :
+  entomology
+  lepidopterology
+
+bulge :
+  bump
+  protuberance
+  mogul
+  protrude
+  bulk
+  start
+
+bullion :
+
+bulwark :
+  rampart
+
+buoyant :
+  chirpy
+  perky
+
+bureaucracy :
+
+burgeon :
+
+burlesque :
+  parody
+  lampoon
+  spoof
+  takeoff
+  travesty
+
+burnish :
+  glaze
+
+buttress :
+
+buxom :
+  voluptuous
+
+cabal :
+  faction
+  conspiracy
+  conspire
+
+cache :
+
+cacophonous :
+
+cadaver :
+
+cadaverous :
+  emaciated
+  gaunt
+  haggard
+
+cadence :
+  meter
+
+cadet :
+
+cajole :
+  wheedle
+  coax
+  inveigle
+
+calamity :
+  cataclysm
+
+calculated :
+  cipher
+  compute
+  reckon
+  resolve
+  interpolate
+  integrate
+  deliberate
+
+caldron :
+
+caliber :
+
+calligraphy :
+
+callous :
+  cauterize
+
+callow :
+  fledgling
+  unfledged
+
+callus :
+
+calorific :
+
+camaraderie :
+
+cameo :
+
+canard :
+
+candor :
+
+canine :
+
+canker :
+
+canny :
+
+canon :
+
+cantankerous :
+  crotchety
+
+cantata :
+  oratorio
+
+canter :
+  lope
+
+canto :
+
+canvass :
+  sift
+
+capacious :
+
+capacity :
+  content
+  prescience
+
+capillary :
+
+capitulate :
+
+caprice :
+  whim
+
+capricious :
+  impulsive
+  whimsical
+
+capricious :
+
+capsize :
+
+caption :
+  legend
+
+captious :
+
+captivated :
+  delighted
+
+carafe :
+
+carapace :
+
+carat :
+
+carcinogenic :
+
+cardinal :
+  fundamental
+
+cardiologist :
+
+cardiology :
+
+careen :
+  sway
+
+career :
+
+carefree :
+
+caricature :
+
+carillon :
+
+carnage :
+  slaughter
+
+carnal :
+  sensual
+
+carnivorous :
+
+carousal :
+
+carping :
+  cavil
+
+carrion :
+
+cartographer :
+
+cascade :
+
+caste :
+
+castigation :
+
+casual :
+  insouciant
+  cursory
+  perfunctory
+
+casualty :
+
+catalyst :
+
+catapult :
+
+cataract :
+
+catcall :
+
+catechism :
+
+categorical :
+
+cater :
+  nourish
+  nurture
+  regale
+  gratify
+  pander
+  indulge
+
+catharsis :
+
+cathartic :
+
+catholic :
+
+catoptrics :
+
+caucus :
+
+caulk :
+
+causal :
+
+cavalcade :
+
+cavalier :
+
+cede :
+
+celerity :
+  dispatch
+
+celestial :
+
+celibate :
+
+cemetery :
+
+censorious :
+
+centaur :
+
+centigrade :
+
+centrifugal :
+
+centrifuge :
+
+centripetal :
+  receptive
+
+centurion :
+
+cerebral :
+
+cerebration :
+  provision
+
+ceremonious :
+  conventional
+
+certitude :
+
+cessation :
+
+cession :
+  recession
+
+chafe :
+  pique
+  gall
+  harass
+  harry
+  rankle
+  grate
+  excoriate
+  fray
+
+chaffing :
+
+chalice :
+
+chameleon :
+
+championship :
+
+chancellor :
+
+chant :
+
+chaotic :
+
+chapel :
+
+chaperon :
+
+chaplain :
+  padre
+
+char :
+  sear
+  scorch
+
+charisma :
+
+charlatan :
+  mountebank
+  phrenologist
+  craniologist
+  quack
+
+chary :
+
+chase :
+  furrow
+
+chasm :
+
+chassis :
+
+chaste :
+
+checkered :
+
+cheerful :
+  upbeat
+
+chemoimmunology :
+
+cherubic :
+
+chicanery :
+  guile
+  hoax
+
+chimerical :
+
+chipper :
+  debonair
+  jaunty
+
+chirology :
+
+chisel :
+  cozen
+  manipulate
+  wangle
+  fleece
+  pluck
+  mulct
+
+chivalrous :
+
+choice :
+  determination
+  volition
+  default
+  prime
+
+choir :
+  chorus
+
+choleric :
+  irascible
+
+chore :
+  stint
+
+choreography :
+
+chortle :
+  chuckle
+
+christology :
+
+chronic :
+  inveterate
+
+chronicle :
+  recital
+  etymology
+
+chronology :
+  glottochronology
+
+churlish :
+
+ciliated :
+
+circlet :
+
+circuit :
+  clipper
+  squelch
+  lap
+
+circuitous :
+  devious
+
+circumambulate :
+
+circumlocution :
+
+circumscribe :
+  curtail
+
+circumspect :
+
+cistern :
+
+civil :
+
+clairvoyant :
+
+clamber :
+
+clandestine :
+  surreptitious
+
+clangor :
+
+clapper :
+
+clarion :
+
+clasp :
+  embrace
+
+claustrophobia :
+
+clavicle :
+
+cleft :
+  crevice
+  fissure
+  vent
+
+clemency :
+  reprieve
+  respite
+
+clientele :
+
+climactic :
+
+climatologist :
+
+climatology :
+
+climax :
+
+clime :
+
+clip :
+  snip
+  prune
+  shear
+
+clique :
+  coterie
+  junta
+  sect
+
+cloister :
+
+clot :
+  coagulate
+
+clout :
+  parry
+  jab
+
+cloying :
+  surfeit
+  pall
+  saccharine
+
+coalesce :
+  flux
+
+coalition :
+  fusion
+
+coda :
+  finale
+
+coddle :
+  mollycoddle
+
+codicil :
+
+codify :
+
+coercion :
+  compulsion
+
+coeval :
+
+cog :
+
+cogent :
+
+cogitate :
+  rationalize
+  muse
+  ruminate
+  rivet
+
+cognate :
+  consanguineous
+
+cognitive :
+
+cognizance :
+  ken
+
+cohabit :
+
+cohesion :
+  consistency
+
+cohorts :
+
+coiffure :
+  plait
+
+coin :
+
+coincidence :
+
+colander :
+
+collaborate :
+
+collage :
+
+collate :
+
+collateral :
+
+collation :
+
+collected :
+  garner
+  muster
+  rally
+  rake
+  hive
+  glean
+  cull
+  salvage
+  scavenge
+  marshal
+
+colloquial :
+
+colloquy :
+
+collusion :
+  connivance
+
+colossal :
+  prodigious
+
+coma :
+
+comatose :
+
+combustible :
+
+comeback :
+  rejoinder
+  retort
+
+comely :
+  decorous
+  seemly
+
+comestible :
+  victuals
+
+comeuppance :
+  deserts
+
+comity :
+
+commandeer :
+
+commemorate :
+  memorialize
+
+commemorative :
+
+commensurate :
+
+commiserate :
+  condole
+
+commodious :
+
+commonwealth :
+
+communal :
+
+commune :
+
+compact :
+  covenant
+  concordat
+  compress
+  prim
+
+compartment :
+  trunk
+
+compassion :
+
+compatible :
+
+compelling :
+  implement
+  hale
+
+compendium :
+  compilation
+
+compensatory :
+
+complacency :
+
+complacent :
+
+complaisant :
+
+complement :
+
+complementary :
+
+compliance :
+  formality
+  deference
+  obeisance
+
+compliant :
+
+complicity :
+
+component :
+  constituent
+  residual
+  residue
+
+compost :
+
+composure :
+  equanimity
+  repose
+  serenity
+  tranquillity
+
+comprehensive :
+
+comprise :
+  incorporate
+
+compromise :
+
+compulsive :
+  exhibitionist
+
+compulsory :
+  mandatory
+
+compunction :
+  remorse
+  penance
+
+concatenate :
+
+concave :
+
+conceit :
+  narcissism
+  egotism
+
+concentric :
+
+conception :
+  innovation
+  contrivance
+
+concerted :
+
+concession :
+  franchise
+
+conchologist :
+
+conchology :
+
+conciliatory :
+
+concise :
+
+conclave :
+
+conclusive :
+
+concomitant :
+  incidental
+
+concur :
+
+concurrent :
+
+condescend :
+  deign
+  patronize
+
+condign :
+
+condiments :
+  paste
+
+condone :
+
+conducive :
+
+conduit :
+  sluice
+
+confidant :
+  intimate
+  repository
+
+confide :
+  consign
+
+confident :
+
+confidential :
+
+confiscate :
+  sequester
+  forfeit
+
+conflagration :
+
+confluence :
+
+conformist :
+
+congeal :
+
+congenial :
+
+congenital :
+  innate
+
+congruence :
+
+congruent :
+
+conifer :
+  pine
+  spruce
+
+conjecture :
+  surmise
+  explicate
+
+conjugal :
+  connubial
+
+connoisseur :
+
+connotation :
+
+consanguinity :
+
+conscientious :
+  painstaking
+  scrupulous
+
+conscript :
+
+consecrate :
+  ordain
+
+consequential :
+
+conservatory :
+
+console :
+  solace
+  lull
+
+consolidation :
+
+consonance :
+
+consonant :
+
+consternation :
+
+constituency :
+
+constitution :
+
+constraint :
+  restraint
+  tether
+
+construe :
+  evoke
+  elicit
+  misconstrue
+
+consummate :
+  gross
+
+contagion :
+
+contaminate :
+  foul
+  taint
+
+contempt :
+  disdain
+
+contend :
+  postulate
+  scrap
+  contest
+  gainsay
+  grapple
+  improvise
+  extemporize
+  vie
+  emulate
+  feud
+  wage
+  skirmish
+  scuffle
+
+contention :
+  polemic
+
+contentious :
+  disputatious
+
+context :
+
+continence :
+
+contingent :
+
+contortions :
+
+contraband :
+
+contrite :
+
+contrive :
+  forge
+  shoot
+
+contrived :
+  stilted
+
+controvert :
+  dissent
+  refute
+
+contumacious :
+
+conundrum :
+  enigma
+
+convalescent :
+
+convene :
+  convoke
+
+converge :
+
+conversant :
+
+converse :
+  discourse
+
+convert :
+  ferment
+  slag
+  verbalize
+  tan
+  transition
+  proselytize
+
+convex :
+
+conveyance :
+  transport
+
+conviction :
+
+convivial :
+
+convoluted :
+  pervert
+  knotty
+  tortuous
+
+convulsion :
+  paroxysm
+  turmoil
+
+coquette :
+  flirt
+  dally
+  mash
+  wanton
+
+cordon :
+
+cornice :
+
+cornucopia :
+  profusion
+
+corollary :
+
+coroner :
+
+corporeal :
+  somatic
+
+corpulent :
+  obese
+  rotund
+
+corpus :
+
+corpuscle :
+  molecule
+  mote
+  speck
+
+correlate :
+
+correlation :
+
+corroborate :
+  substantiate
+  document
+  validate
+  vouch
+
+corrode :
+
+corrosive :
+  mordant
+
+corrugated :
+
+cosmetologist :
+
+cosmetology :
+
+cosmic :
+
+cosmologist :
+
+cosmology :
+
+countenance :
+  visage
+  sanction
+  physiognomy
+
+counterpart :
+
+coup :
+
+couple :
+  yoke
+  tread
+
+courier :
+
+court :
+  tribunal
+  homage
+
+covert :
+
+covetous :
+  prehensile
+
+coy :
+  demure
+
+crabbed :
+  grouse
+  fussy
+
+craft :
+  cunning
+  filigree
+
+craniology :
+  phrenology
+
+crass :
+
+crave :
+  lust
+
+craven :
+
+credence :
+  fatalism
+
+credential :
+
+credo :
+  creed
+
+credulity :
+
+credulous :
+
+cremate :
+
+crescendo :
+  swell
+
+crest :
+  tuft
+
+crestfallen :
+
+Cretaceous :
+
+criminologist :
+
+criminology :
+  penology
+  poenology
+
+crinkle :
+  wrinkle
+  pucker
+  knit
+
+criteria :
+  touchstone
+  scale
+
+crochet :
+
+crone :
+
+crust :
+  incrustation
+  impudence
+  insolence
+
+crux :
+
+crypt :
+
+cryptic :
+  inscrutable
+  sibylline
+
+cryptologist :
+
+cryptology :
+
+cue :
+
+cuisine :
+  gastronomy
+
+culinary :
+
+culpable :
+
+culprit :
+
+culvert :
+
+cumbersome :
+  inept
+
+cumulative :
+
+curator :
+
+curfew :
+
+curmudgeon :
+
+cursive :
+  minuscule
+
+cynical :
+
+cynosure :
+
+dabble :
+
+dainty :
+  savory
+  marrow
+  mincing
+  exquisite
+  squeamish
+
+dais :
+  podium
+  pulpit
+  rostrum
+
+damn :
+  infernal
+
+dank :
+
+dapper :
+  natty
+  rakish
+
+dappled :
+  stipple
+  mottled
+
+dart :
+  flit
+  flutter
+  fleet
+
+daunt :
+
+dawdle :
+  linger
+  lag
+
+daze :
+  stupor
+  dazzle
+  stun
+
+dazed :
+  logy
+
+deadlock :
+  impasse
+  stalemate
+  standstill
+
+deadpan :
+  impassive
+
+dearth :
+  paucity
+
+debacle :
+  fiasco
+
+debilitate :
+  macerate
+
+debris :
+  rubble
+
+debunk :
+
+debut :
+
+debutante :
+
+decadence :
+
+decadent :
+  effete
+
+decant :
+
+decapitate :
+
+decelerate :
+  retard
+  detain
+
+deciduous :
+
+decipher :
+
+declivity :
+  steep
+
+decollete :
+
+decomposition :
+
+decorum :
+
+decree :
+  edict
+  fiat
+  enact
+  overthrow
+
+decrepit :
+  derelict
+  run-down
+  rickety
+
+decrepitude :
+
+decry :
+  reprobate
+
+deducible :
+
+defalcate :
+
+defeatist :
+
+deferential :
+
+defiance :
+  insubordination
+
+defile :
+  gorge
+  tarnish
+
+defoliate :
+
+defray :
+
+defrock :
+  unfrock
+
+deft :
+  dexterous
+
+defunct :
+
+degenerate :
+  masochist
+  sodomist
+  satyr
+  devolve
+  weary
+  languish
+  libertine
+  profligate
+
+degradation :
+
+dehydrate :
+
+deify :
+
+delete :
+  expunge
+  excise
+  efface
+
+deleterious :
+  injurious
+
+delightful :
+
+delineate :
+  limn
+  draw
+
+delirium :
+  hysteria
+
+delta :
+
+delude :
+
+deluge :
+  torrent
+  inundate
+  swamp
+  overwhelm
+  submerge
+
+delusion :
+  hallucination
+  illusion
+
+delusive :
+
+delve :
+  groove
+  rout
+
+demagogue :
+
+demeanor :
+  impropriety
+  propriety
+
+demented :
+
+demise :
+
+demist :
+
+demographic :
+
+demolition :
+  ravage
+  depredation
+
+demotic :
+
+demur :
+  except
+
+denizen :
+
+denotation :
+
+denouement :
+
+depict :
+  render
+
+deplete :
+  luxuriate
+
+deploy :
+
+depose :
+
+depravity :
+  turpitude
+
+deputize :
+
+deranged :
+  perturb
+
+dereliction :
+
+deride :
+
+derision :
+  scoff
+  mock
+
+derivative :
+  partial
+
+dermatologist :
+
+dermatology :
+
+derogatory :
+
+descry :
+
+desperado :
+
+desperate :
+  dire
+
+despise :
+
+despoil :
+  ransack
+  pillage
+  foray
+
+despondent :
+
+despot :
+
+destitute :
+  indigent
+  devoid
+
+desultory :
+
+detached :
+
+determinate :
+
+detonation :
+  percussion
+
+detraction :
+
+detrimental :
+
+devotee :
+
+devout :
+
+diabolical :
+
+diadem :
+
+dialectical :
+
+dialectology :
+
+diaphanous :
+  gossamer
+  transparent
+
+diatribe :
+
+dichotomy :
+
+dictum :
+
+didactic :
+
+die :
+  stamp
+  suffocate
+  stifle
+  succumb
+
+diffidence :
+
+diffident :
+
+diffuse :
+  mantle
+  pervade
+  penetrate
+  imbue
+  disseminate
+  propagate
+  disperse
+  sow
+
+dignitary :
+
+digression :
+  diversion
+
+dilapidated :
+  wilt
+  droop
+  weather
+  erode
+  ramshackle
+
+dilate :
+  elaborate
+  expatiate
+  expound
+  exemplify
+
+dilatory :
+  laggard
+
+dilemma :
+  quandary
+
+dilettante :
+
+diminution :
+  ebb
+  wane
+  discount
+
+dinghy :
+
+dint :
+
+diorama :
+
+dirge :
+  requiem
+
+disabuse :
+
+disaffected :
+  wean
+  malcontent
+
+disapprobation :
+
+disarray :
+  jumble
+
+disavowal :
+
+disband :
+
+disbar :
+
+disburse :
+
+discernible :
+
+disclaim :
+
+disclose :
+  divulge
+
+discombobulated :
+
+discomfit :
+  discompose
+  faze
+  enervate
+
+discord :
+  dissension
+
+discordant :
+
+discrepancy :
+  leeway
+
+discrete :
+  distinct
+
+discretion :
+  prudence
+
+discriminate :
+
+discursive :
+
+disembark :
+
+disenfranchise :
+
+disengage :
+  extricate
+
+disgorge :
+  shed
+  purge
+
+disgruntle :
+
+dishearten :
+
+disheveled :
+
+disinclination :
+  sloth
+
+disinter :
+  exhume
+
+disinterested :
+
+disjointed :
+  garbled
+
+disjunction :
+
+dislodge :
+
+dismantle :
+  raze
+
+dismember :
+
+dismiss :
+  flout
+  slight
+  pass_off
+
+disparate :
+
+disparity :
+  disproportion
+
+dispassionate :
+
+dispel :
+  dissipate
+
+dispense :
+  lot
+
+disport :
+  frolic
+  gambol
+  frisk
+  romp
+
+disquiet :
+  distract
+
+disquietude :
+
+disquisition :
+
+dissection :
+
+dissertation :
+
+dissident :
+  nonconformist
+  heterodox
+
+dissimulate :
+
+dissolution :
+
+dissonance :
+
+dissuade :
+
+distinction :
+
+distinctive :
+
+distrait :
+
+distraught :
+  overwrought
+
+diurnal :
+
+diva :
+
+diverge :
+  ramify
+
+diverse :
+
+divest :
+  expropriate
+
+divine :
+  ecclesiastic
+  dowse
+  elysian
+
+docile :
+
+doctrinaire :
+
+doctrine :
+  millennium
+  phenomenology
+  precept
+  dogma
+
+doddering :
+  totter
+
+doff :
+
+dogged :
+  dour
+  pertinacious
+  tenacious
+
+doggerel :
+
+dogmatic :
+
+doldrums :
+
+doleful :
+
+dolorous :
+  lachrymose
+
+dolt :
+
+dominant :
+  prevalent
+  rife
+
+don :
+
+doom :
+
+dormant :
+  torpid
+
+dormer :
+
+dorsal :
+
+dossier :
+
+dotage :
+  senility
+
+dote :
+
+douse :
+
+dowdy :
+
+dowry :
+
+doze :
+
+draconian :
+
+draft :
+  draught
+  tipple
+  quaff
+  levy
+  enlist
+
+drama :
+
+drastic :
+
+dregs :
+
+dribble :
+  drip
+  trickle
+  drivel
+
+droll :
+
+drone :
+
+dross :
+
+drudge :
+  peon
+  travail
+
+drudgery :
+
+dubious :
+
+ductile :
+  malleable
+  pliable
+  pliant
+  tensile
+
+dulcet :
+  mellifluous
+
+dummy :
+
+duplicity :
+
+duration :
+
+duress :
+
+dutiful :
+
+dwindle :
+
+dynamic :
+
+dynamo :
+
+dys- :
+
+dysentery :
+
+dyslexia :
+
+dystrophy :
+
+earn :
+
+earthly :
+
+earthy :
+  vulgar
+
+ebullient :
+
+eccentricity :
+
+ecclesiology :
+
+eclectic :
+
+ecliptic :
+
+econometrics :
+
+economist :
+  microeconomist
+  macroeconomist
+
+economy :
+
+ecosystem :
+
+ecstatic :
+  rapt
+
+eddy :
+
+edifice :
+  shambles
+  rotunda
+  morgue
+
+edify :
+
+eerie :
+
+effective :
+  effectual
+
+effectuate :
+  precipitate
+  execute
+  induce
+
+effeminate :
+  emasculate
+
+effervescence :
+
+efficacy :
+
+effigy :
+
+efflorescence :
+  heyday
+  florescence
+
+effluent :
+
+effluvium :
+
+effulgent :
+  refulgent
+
+effusion :
+  gush
+
+ego :
+
+egoism :
+
+egotistical :
+  vain
+
+egregious :
+  flagrant
+  glaring
+
+egress :
+
+egyptologist :
+
+egyptology :
+
+ejaculation :
+  interjection
+
+elaboration :
+
+elastic :
+
+elated :
+  gleeful
+  joyful
+  jubilant
+
+electrologist :
+
+elegy :
+
+elixir :
+
+ellipsis :
+
+elliptical :
+  ovoid
+
+elocution :
+
+elope :
+
+eloquence :
+  fluency
+
+eloquent :
+  facile
+
+elucidate :
+
+elusive :
+  problematic
+
+Elysium :
+
+emanate :
+  exhale
+
+emancipate :
+  manumit
+
+embargo :
+
+embark :
+  venture
+
+embed :
+
+embezzlement :
+
+embitter :
+
+embody :
+  incarnate
+
+emboss :
+
+embroil :
+
+embryologist :
+
+embryonic :
+
+emetic :
+
+eminent :
+  lofty
+
+emissary :
+
+emollient :
+
+emolument :
+
+empathy :
+
+empirical :
+
+enamored :
+
+enchanted :
+  enrapture
+  enthrall
+  voodoo
+
+encipher :
+
+enclave :
+
+encomiastic :
+  eulogistic
+  panegyric
+
+encompass :
+
+encroachment :
+  inroad
+
+endear :
+
+endearment :
+
+endemic :
+  indigenous
+
+endocrinologist :
+
+endocrinology :
+
+endorse :
+
+endue :
+
+enduring :
+  prevail
+  persist
+
+engaged :
+  engross
+  rent
+  flip
+
+engaging :
+  piquant
+
+engulf :
+
+enjoin :
+
+ennui :
+  tedium
+
+enologist :
+  oenologist
+  fermentologist
+
+enology :
+  oenology
+
+ensconce :
+
+ensue :
+
+enterprise :
+
+enterprising :
+
+entice :
+  seduce
+
+entity :
+
+entomologic :
+  entomological
+
+entomophilous :
+
+entomophobia :
+
+entomophthora :
+
+entomophthoraceae :
+
+entomophthorales :
+
+entomostraca :
+
+entourage :
+  retinue
+
+entree :
+  scuttle
+
+environ :
+
+enzymology :
+
+eon :
+
+epaulet :
+  epaulette
+
+ephemeral :
+  transient
+  transitory
+
+epic :
+  rhapsody
+
+epicure :
+  gourmet
+  epicurean
+
+Epicurean :
+  luxuriant
+  sybaritic
+
+epidemiologist :
+
+epidemiology :
+
+epigram :
+  quip
+
+epilogue :
+
+episodic :
+
+epistemologist :
+
+epistemology :
+  methodology
+
+epitaph :
+
+epithet :
+
+epoch :
+
+equable :
+  placid
+
+equestrian :
+
+equilibrium :
+  homeostasis
+  equipoise
+  symmetry
+
+equine :
+
+equinox :
+
+equitable :
+
+equity :
+
+equivocate :
+  prevaricate
+
+erotic :
+
+errant :
+
+erratic :
+  fickle
+  mercurial
+  quicksilver
+
+erroneous :
+
+erudite :
+
+escapade :
+
+escapologist :
+
+escapology :
+
+eschatologist :
+
+eschatology :
+
+eschew :
+
+esoteric :
+
+espionage :
+
+espouse :
+
+esteem :
+  venerate
+
+estimable :
+
+estranged :
+
+ethnic :
+
+ethologist :
+
+ethology :
+
+ethos :
+
+etymologist :
+
+eugenic :
+
+eugenics :
+
+eulogist :
+
+eulogy :
+
+euphemism :
+
+euphony :
+
+euphoria :
+
+euphoric :
+
+Eusocial :
+
+euthanasia :
+
+evanescent :
+
+evasive :
+
+evenhanded :
+
+eventual :
+
+evince :
+  ventilate
+  exude
+  imply
+  menace
+
+evocative :
+  reminiscent
+  resonant
+
+ewe :
+
+exacerbate :
+  exasperate
+
+exact :
+  precise
+
+exacting :
+  fastidious
+
+exceptionable :
+
+excerpt :
+
+exchequer :
+  trough
+
+excited :
+  whet
+  repel
+  tickle
+  titillate
+  frantic
+
+exclaim :
+  promulgate
+
+excruciatingly :
+
+exculpate :
+  exonerate
+  vindicate
+
+executioner :
+
+executive :
+
+executor :
+
+exegesis :
+
+exemplary :
+
+exertion :
+  friction
+
+exhilarating :
+
+exhort :
+
+exigency :
+
+exiguous :
+
+existential :
+
+exodus :
+
+exorbitant :
+  unconscionable
+
+exorcise :
+
+exotic :
+
+expansive :
+
+expatriate :
+
+expedient :
+  makeshift
+
+expedite :
+
+expeditious :
+
+expenditure :
+
+expertise :
+
+expletive :
+  oath
+
+explicit :
+
+exploit :
+  prey
+  quarry
+
+expository :
+
+expostulation :
+
+exposure :
+  mosaic
+  monochrome
+  glossy
+  vignette
+
+extant :
+
+extemporaneous :
+  impromptu
+  offhand
+
+extenuate :
+  mitigate
+
+extirpate :
+
+extol :
+  laud
+
+extort :
+  wring
+  pry
+
+extradition :
+
+extraneous :
+  impertinent
+
+extrapolation :
+
+extremist :
+
+extrinsic :
+
+extrovert :
+
+extrude :
+
+exuberance :
+
+exult :
+
+exultant :
+
+fabricate :
+  spin
+
+facade :
+
+facet :
+
+facsimile :
+
+factious :
+
+factitious :
+
+factotum :
+
+faculty :
+  intellect
+
+fain :
+  inclined
+
+fallacious :
+  fraudulent
+
+fallacy :
+  sophistry
+
+fallible :
+  frail
+
+fallow :
+
+falter :
+  waver
+  stammer
+
+fanaticism :
+
+fancied :
+  fancy
+  fictitious
+
+fancier :
+
+fanciful :
+
+fanciful :
+
+fanfare :
+
+farce :
+
+far-fetched :
+
+fashion :
+  mode
+  idiom
+  furor
+
+fathom :
+
+fathomless :
+
+fauna :
+  predator
+
+favoritism :
+  nepotism
+
+fawning :
+  toady
+  obsequious
+
+feasible :
+  practicable
+  viable
+
+feature :
+
+febrile :
+
+fecundity :
+
+feebleminded :
+
+feint :
+
+felicitous :
+  happy
+
+felicitous :
+
+felicity :
+
+feline :
+
+fell :
+  hide
+  log
+  lumber
+  topple
+  subside
+  shrivel
+  wither
+  taper
+  vaporize
+  remit
+
+felon :
+  outlaw
+  malefactor
+  incendiary
+  fugitive
+
+feral :
+
+fermentation :
+
+ferocious :
+
+ferret :
+
+fertile :
+  prolific
+
+fervent :
+  fervid
+  impassioned
+  torrid
+
+fester :
+
+festive :
+  merry
+
+fete :
+
+fetid :
+  noisome
+
+fetish :
+
+fetology :
+  foetology
+
+fetter :
+  manacle
+
+fidelity :
+
+fiduciary :
+
+fiend :
+  incubus
+
+figment :
+
+figurative :
+
+figurine :
+
+filial :
+
+filibuster :
+
+filing :
+  impeach
+
+filth :
+  scatology
+
+finesse :
+
+finicky :
+
+finish :
+  termination
+
+finished :
+
+finite :
+
+fitful :
+  spasmodic
+
+flaccid :
+
+flail :
+
+flair :
+  panache
+
+flamboyant :
+  florid
+
+flashy :
+  garish
+  gaudy
+  meretricious
+  tawdry
+
+flaunt :
+
+flay :
+
+fleck :
+  nebula
+
+fledgling :
+  neophyte
+
+flick :
+  flicker
+
+flighty :
+  skittish
+
+flinch :
+  wince
+  quail
+
+flippant :
+
+floe :
+
+flora :
+  perennial
+
+flotsam :
+  jetsam
+
+flounder :
+
+flowery :
+  ornate
+
+fluctuate :
+  vacillate
+
+fluted :
+
+fodder :
+  forage
+
+foible :
+  idiosyncrasy
+  mannerism
+
+foist :
+
+foliage :
+  frond
+
+foolhardy :
+
+foppish :
+
+forbearance :
+
+ford :
+
+forebears :
+
+foreboding :
+  premonition
+  presentiment
+
+forensic :
+
+foresight :
+
+forestall :
+  preclude
+  stymie
+
+forlorn :
+
+formidable :
+  redoubtable
+
+forsake :
+  maroon
+
+forte :
+
+forthcoming :
+  outgoing
+
+fortitude :
+
+fortuitous :
+
+forum :
+
+forward :
+
+fossilology :
+  paleontology
+  palaeontology
+  micropaleontology
+
+fossorial :
+
+founder :
+  implode
+
+fractious :
+  refractory
+  recalcitrant
+  peevish
+  petulant
+  testy
+
+fraught :
+
+freebooter :
+
+frenetic :
+  frenzied
+
+fresco :
+
+frieze :
+
+frigid :
+  glacial
+  polar
+
+fritter :
+
+frivolous :
+
+frock :
+
+frolicsome :
+  sportive
+
+frugal :
+
+frugality :
+  parsimony
+
+fruitful :
+
+fruition :
+
+fulcrum :
+
+fulminate :
+
+fulsome :
+  unctuous
+
+functional :
+
+functionary :
+  incumbent
+  mace
+
+funereal :
+
+furtive :
+
+fusillade :
+  volley
+
+fuss: :
+
+futile :
+  ineffectual
+
+futurology :
+
+gadfly :
+
+gait :
+  strut
+  prance
+  limp
+
+galaxy :
+
+gale :
+
+galleon :
+
+galley :
+
+gallows :
+
+galvanic :
+
+galvanize :
+
+gambit :
+  ploy
+  stratagem
+
+gamely :
+
+gamut :
+
+gangrene :
+
+gape :
+  gawk
+
+garbology :
+
+gargantuan :
+
+gargoyle :
+
+garrulous :
+  loquacious
+
+gastroenterologist :
+
+gastroenterology :
+
+gauche :
+
+gavel :
+
+gazette :
+
+genealogist :
+
+genealogy :
+
+generality :
+
+generic :
+
+genesis :
+
+geniality :
+
+genre :
+
+genteel :
+
+gentility :
+
+genuflect :
+
+genus :
+
+geologist :
+  hydrologist
+
+geology :
+  orology
+  mineralogy
+  paleogeology
+  palaeogeology
+
+geomorphology :
+  petrology
+  lithology
+
+geriatrics :
+  gerontology
+
+germ :
+
+germane :
+
+germinal :
+  seminal
+
+germinate :
+  sprout
+
+gerontocracy :
+
+gerontologist :
+
+gerrymander :
+
+gesticulation :
+
+ghastly :
+  grisly
+  gruesome
+  macabre
+
+gibberish :
+  jabber
+
+giddy :
+
+gingerly :
+
+girth :
+
+gist :
+  kernel
+  pith
+  quintessence
+
+glad :
+
+glamor :
+
+glare :
+  glower
+
+gleam :
+  glow
+  glimmer
+  glitter
+  shimmer
+
+glib :
+  slick
+
+gloat :
+
+glorious :
+  splendid
+  resplendent
+
+glossary :
+
+gloss_over :
+
+glut :
+  satiate
+
+glutinous :
+  viscid
+  viscous
+
+glutton :
+  gourmand
+
+gnarled :
+  murmur
+  mutter
+  grumble
+
+goad :
+  prod
+
+gobble :
+
+gory :
+  sanguinary
+
+gracious :
+
+gradation :
+
+graduated :
+
+granary :
+
+grandeur :
+
+grandiloquent :
+  magniloquent
+  overblown
+  pontifical
+
+grandiose :
+
+granulate :
+
+graphic :
+  vivid
+
+graphite :
+
+graphologist :
+
+graphology :
+
+gratified :
+  humor
+
+gratis :
+  gratuitous
+
+gratuity :
+
+gravity :
+  sobriety
+  solemnity
+
+gregarious :
+
+grievance :
+  grudge
+
+grill :
+
+grimace :
+
+groom :
+  qualify
+
+grotesque :
+
+grotto :
+
+grouch :
+  hothead
+  misanthrope
+
+growl :
+  rumble
+
+grudging :
+  niggardly
+
+gruel :
+
+gruff :
+
+grunt :
+
+guffaw :
+
+guileless :
+
+guise :
+  pretext
+
+gullible :
+
+gust :
+  whiff
+
+gustatory :
+
+gusto :
+  zest
+
+gusty :
+
+guy :
+  stultify
+
+gynaecologist :
+  gynecologist
+
+gynaecology :
+  gynecology
+
+gyroscope :
+
+habitat :
+
+habituate :
+  inure
+
+hackles :
+
+haematologist :
+  hematologist
+
+haematology :
+  hematology
+
+hagiologist :
+
+hagiology :
+
+halcyon :
+  prosperous
+
+halfhearted :
+  tepid
+
+hallowed :
+
+halting :
+  stem
+  stanch
+
+hap :
+  transpire
+  intervene
+
+haphazard :
+  slapdash
+  slipshod
+
+hapless :
+  pathetic
+
+harangue :
+
+harbinger :
+  predecessor
+  precursor
+
+harping :
+
+harrowing :
+
+haunt :
+  resort
+
+haven :
+
+havoc :
+  mayhem
+
+hazardous :
+
+hazy :
+
+headfirst :
+  headlong
+
+headstrong :
+  willful
+
+healthful :
+
+healthy :
+  salubrious
+
+heckler :
+
+hedonism :
+
+hedonist :
+
+heebie-jeebies :
+
+heed :
+
+heedless :
+
+hegemony :
+
+heinous :
+
+helm :
+
+hem :
+
+herbivorous :
+
+herd :
+
+heresy :
+
+hermetic :
+
+herpetologist :
+
+herpetology :
+
+heterogeneous :
+
+heterology :
+
+hew :
+
+hiatus :
+  remission
+
+hibernal :
+
+hibernate :
+
+hideous :
+
+hierarchy :
+
+hieroglyphic :
+
+high-flown :
+  inflated
+  sublime
+  rarefied
+
+hilarious :
+  uproarious
+
+hilarity :
+  mirth
+
+hindmost :
+
+hindsight :
+
+hinterlands :
+
+hireling :
+
+hirsute :
+
+histology :
+
+historic :
+  historical
+
+histrionic :
+
+hoary :
+
+holocaust :
+
+holster :
+
+homely :
+
+homespun :
+
+homily :
+
+homogeneous :
+
+homology :
+
+horde :
+  swarm
+
+horologist :
+
+horology :
+
+horoscope :
+
+hortatory :
+
+horticultural :
+
+hostage :
+
+hovel :
+  hut
+  shack
+
+hubbub :
+  uproar
+
+hue :
+  pigment
+
+hue_and_cry :
+
+hull :
+
+humane :
+
+humdrum :
+  monotony
+  prosaic
+
+humid :
+
+humility :
+
+hummock :
+  knoll
+
+humus :
+
+hurl :
+  hurtle
+
+husband :
+  retrench
+
+husbandry :
+
+hybrid :
+
+hydrology :
+
+hydrophobia :
+  rabies
+
+hygiene :
+
+hyperbole :
+
+hypercritical :
+
+hypnosis :
+
+hypochondriac :
+
+hypocritical :
+
+hypothetical :
+  supposititious
+
+ichthyologist :
+
+ichthyology :
+
+icky :
+
+icon :
+  semblance
+
+iconoclast :
+
+iconoclastic :
+
+iconology :
+
+ideology :
+  theocracy
+
+idle :
+  loll
+  unwarranted
+
+idolatry :
+
+idyllic :
+
+igneous :
+
+ignite :
+  kindle
+  wake
+
+ignoble :
+
+ignominy :
+  reproach
+  odium
+  obloquy
+  opprobrium
+
+illicit :
+
+illimitable :
+
+illusive :
+  illusory
+
+imbalance :
+
+imbecility :
+
+imbroglio :
+
+immaculate :
+  impeccable
+
+imminent :
+  impending
+
+immobility :
+
+immolate :
+
+immune :
+
+immunologist :
+
+immunology :
+  immunopathology
+
+immure :
+  incarcerate
+  jug
+
+immutable :
+
+impair :
+  vitiate
+
+impale :
+
+impalpable :
+  intangible
+
+impartial :
+
+impassable :
+
+impecunious :
+
+impede :
+  occlude
+
+impel :
+  loft
+
+impenetrable :
+
+impenitent :
+
+imperative :
+
+imperceptible :
+
+imperial :
+  regal
+
+imperil :
+  jeopardize
+
+imperious :
+  supercilious
+
+impermeable :
+
+impersonal :
+
+imperturbable :
+
+impervious :
+
+impetuous :
+
+impetus :
+
+impiety :
+
+impinge :
+
+impious :
+
+implacable :
+
+implausible :
+
+implication :
+  import
+  innuendo
+
+implicit :
+
+implore :
+  supplicate
+  importune
+
+impolitic :
+
+imponderable :
+  leaven
+
+importunate :
+
+imposture :
+
+impotent :
+
+impoverish :
+
+imprecation :
+  malediction
+
+impregnable :
+  unassailable
+
+impregnate :
+  saturate
+
+improvident :
+
+imprudent :
+
+impugn :
+
+impuissance :
+
+impunity :
+
+inadvertent :
+
+inadvertently :
+
+inalienable :
+
+inamorata :
+
+inanimate :
+
+inarticulate :
+
+inasmuch_as :
+
+inaugurate :
+
+incandescent :
+
+incantation :
+  invocation
+
+incapacitate :
+  pinion
+  invalid
+
+incarnation :
+  personification
+
+incense :
+
+incentive :
+
+inception :
+  overture
+  prelude
+
+incessant :
+  perpetual
+
+inchoate :
+  incipient
+
+incidence :
+
+incident :
+
+incinerate :
+
+inclement :
+
+incline :
+  ramp
+  tend
+  predispose
+
+inclusive :
+
+incognito :
+
+incoherent :
+
+incommodious :
+
+incompatible :
+
+incongruity :
+  irony
+
+inconsequential :
+
+inconsistency :
+  repugnance
+
+incontinent :
+
+incontrovertible :
+  irrefutable
+
+incorporeal :
+
+incorrigible :
+
+incredulity :
+
+incredulous :
+
+increment :
+
+incriminate :
+  inculpate
+  upbraid
+
+inculcate :
+
+incur :
+
+incursion :
+  maraud
+
+indecision :
+
+indecisive :
+
+indefatigable :
+
+indelible :
+
+indemnify :
+
+indentation :
+  notch
+
+indeterminate :
+
+indicative :
+
+indices :
+
+indict :
+
+indifferent :
+  inert
+
+indigence :
+  penury
+
+indignation :
+
+indiscriminate :
+
+indisputable :
+
+indissoluble :
+
+indite :
+  pen
+
+indoctrinate :
+
+indolence :
+
+indolent :
+
+indomitable :
+
+indubitable :
+
+induct :
+
+inductive :
+
+indulgent :
+
+industrious :
+
+inebriated :
+
+ineffable :
+
+ineluctable :
+
+inequity :
+
+inerrancy :
+
+inestimable :
+
+inevitable :
+
+inextricable :
+
+infallible :
+
+infamous :
+
+infantile :
+
+infer :
+
+infest :
+
+infidel :
+
+infiltrate :
+
+infinitesimal :
+  minute
+
+infirmity :
+
+influx :
+
+infraction :
+  misdemeanor
+  sedition
+  perjury
+
+infusion :
+
+ingenious :
+
+ingenue :
+
+ingrained :
+
+ingrate :
+
+ingratiate :
+
+inherent :
+  integral
+  underlying
+
+inhibited :
+  suppress
+  subdue
+  smother
+  repress
+
+inimical :
+
+inimitable :
+
+iniquitous :
+
+inkling :
+
+innocuous :
+
+inopportune :
+
+inordinate :
+
+inquisitive :
+
+inquisitor :
+
+insalubrious :
+
+insatiable :
+
+insensate :
+
+insensible :
+
+insidious :
+  pernicious
+
+insightful :
+
+insinuate :
+
+insolvent :
+
+insomnia :
+
+instigate :
+
+institute :
+
+institutionalize :
+
+insubstantial :
+
+insufferable :
+
+insular :
+  parochial
+
+insularity :
+
+insuperable :
+  insurmountable
+
+insurgent :
+  subversive
+
+insurrection :
+
+integrity :
+  probity
+
+intelligentsia :
+
+inter :
+
+interim :
+  interregnum
+
+interloper :
+
+intermediary :
+
+interminable :
+
+intermittent :
+
+internecine :
+
+interrogate :
+
+interrogation :
+  query
+
+interstice :
+
+intimidate :
+
+intolerant :
+
+intonation :
+
+intractable :
+
+intransigence :
+
+intrigue :
+  scheme
+
+intrinsic :
+
+introspective :
+
+introvert :
+
+intuition :
+
+inured :
+
+invective :
+
+inveigh :
+
+inverse :
+  reciprocal
+
+invert :
+
+invidious :
+
+invincible :
+
+invulnerable :
+
+iota :
+  scintilla
+  whit
+
+irate :
+
+iridescent :
+  opalescent
+
+irksome :
+
+ironic :
+  wry
+
+irreconcilable :
+
+irrelevant :
+
+irremediable :
+
+irreparable :
+
+irrepressible :
+
+irreproachable :
+  unimpeachable
+
+irresolute :
+
+irretrievable :
+
+irreverence :
+
+irrevocable :
+
+islamist :
+
+isometrics :
+
+isotope :
+
+isthmus :
+
+itinerant :
+
+itinerary :
+
+jaded :
+
+jaundiced :
+
+jaunt :
+  junket
+
+jest :
+  pun
+
+jettison :
+
+jingoist :
+
+jocose :
+  jocular
+
+jocund :
+  jovial
+  mirthful
+
+jollity :
+
+jostle :
+  shove
+
+joyous :
+
+jubilation :
+
+judiciary :
+
+judicious :
+
+juggernaut :
+
+juncture :
+
+juridical :
+
+jurisdiction :
+  parish
+  venue
+
+jurisprudence :
+  precedent
+
+juxtapose :
+
+kaleidoscope :
+
+killjoy :
+  spoilsport
+
+kindred :
+  totem
+
+kinesiology :
+
+kinetic :
+
+kismet :
+
+kleptomaniac :
+
+knave :
+
+knead :
+  masticate
+
+kneel :
+
+knell :
+  toll
+
+kudos :
+
+labile :
+
+labyrinth :
+
+laceration :
+
+lackadaisical :
+  languid
+
+lackluster :
+
+laconic :
+  terse
+
+lagoon :
+
+laity :
+
+lance :
+  trident
+  lancet
+
+lank :
+
+larceny :
+  petty
+
+larder :
+
+largess :
+  magnanimity
+
+lascivious :
+  lewd
+  libidinous
+
+latch :
+
+latent :
+
+lateral :
+
+latitude :
+  parallel
+
+laudatory :
+
+laughing :
+  titter
+  snicker
+
+lavish :
+  munificent
+  lush
+
+lax :
+
+layman :
+  secular
+
+leave-taking :
+  valediction
+
+lechery :
+
+lectern :
+
+leery :
+  wary
+
+legacy :
+
+legato :
+
+legerdemain :
+
+legislature :
+
+leniency :
+
+leonine :
+
+lethal :
+
+lethargic :
+
+levee :
+
+levitate :
+
+levity :
+
+lexicographer :
+  lexicologist
+  neologist
+  synonymist
+
+lexicology :
+
+lexicon :
+
+liability :
+
+liaison :
+
+libido :
+
+libretto :
+
+license :
+
+licentious :
+
+lien :
+
+ligneous :
+
+lilliputian :
+
+limber :
+  supple
+
+limbo :
+  oblivion
+
+limnologist :
+
+limnology :
+
+limpid :
+  lucid
+  pellucid
+  perspicuous
+
+lineaments :
+
+linguistic :
+
+lionize :
+
+liquidate :
+
+list :
+  roster
+  queue
+  necrology
+
+listless :
+
+litany :
+
+lithe :
+
+litigate :
+
+litigation :
+
+litotes :
+
+liturgiology :
+
+lively :
+  resilient
+  vital
+
+lode :
+
+loiter :
+  lounge
+  tarry
+
+longevity :
+
+lookout :
+  sentinel
+  outlook
+
+lottery :
+  raffle
+
+lout :
+  oaf
+
+love-in-a-mist :
+
+lubricate :
+
+lucky :
+
+lucrative :
+  remunerative
+
+lucre :
+
+ludicrous :
+  preposterous
+
+lugubrious :
+
+lumen :
+
+luminary :
+  notable
+
+luminous :
+
+lunar :
+
+lunatic :
+  pyromaniac
+
+lunatic :
+
+lurid :
+
+luscious :
+
+luster :
+
+lustrous :
+
+Machiavellian :
+
+machinations :
+
+maculated :
+
+madrigal :
+
+maelstrom :
+  vortex
+
+magisterial :
+  peremptory
+
+magistrate :
+
+magnanimous :
+
+magnate :
+  tycoon
+
+magnitude :
+  multiplicity
+
+maim :
+  mutilate
+
+malacologist :
+
+malacology :
+
+maladroit :
+
+malady :
+
+malaise :
+
+malapropism :
+
+malapropos :
+
+maleficient :
+
+malevolence :
+  venom
+
+malevolent :
+
+malfeasance :
+
+malicious :
+
+malignant :
+
+malinger :
+  skulk
+
+malingerer :
+
+malodorous :
+
+mammal :
+
+mammalogist :
+
+mammalogy :
+  primatology
+
+mammoth :
+
+mandate :
+
+maneuver :
+
+mange :
+
+mangy :
+
+maniacal :
+
+manifestation :
+
+manifesto :
+
+manifold :
+  proliferate
+
+mannered :
+
+marginal :
+
+marital :
+
+maritime :
+  nautical
+
+marked :
+  underscore
+  pronounced
+
+marred :
+
+marsupial :
+
+martial :
+
+martyr :
+
+masquerade :
+
+mat :
+
+materialism :
+
+maternal :
+
+matinee :
+
+matriarch :
+
+matriculate :
+
+matrimony :
+
+maudlin :
+  mawkish
+  sentimental
+
+mausoleum :
+
+mauve :
+
+maverick :
+
+meager :
+
+mealymouthed :
+
+meddlesome :
+  officious
+
+mediocre :
+
+meditation :
+
+medium :
+  solvent
+
+medley :
+  potpourri
+  pastiche
+
+meek :
+
+megalomania :
+
+melancholy :
+  somber
+
+melee :
+  scrimmage
+
+memento :
+
+memoir :
+
+memorial :
+
+menagerie :
+
+mendacious :
+
+mendicant :
+
+menial :
+
+mentor :
+  sage
+
+mercantile :
+  mercenary
+
+merit :
+  virtue
+
+mesmerize :
+
+metallurgical :
+
+metamorphosis :
+
+metaphor :
+
+metaphysical :
+
+meteoric :
+
+meteorologist :
+
+meteorology :
+  nephology
+
+methodical :
+
+meticulous :
+  punctilious
+
+metonymy :
+
+metrical :
+
+metrics :
+  prosody
+
+metrology :
+
+metropolis :
+
+mettle :
+
+microcosm :
+
+migrant :
+  migratory
+
+milieu :
+
+militate :
+
+militia :
+
+mime :
+  pantomimist
+  pantomime
+
+mimicry :
+
+mineralogist :
+
+miniature :
+
+minion :
+
+minutiae :
+
+mirage :
+
+misadventure :
+  mishap
+  mischance
+
+misapprehension :
+
+miscegenation :
+
+miscellaneous :
+  motley
+  sundry
+  multifarious
+
+mischief :
+
+misconduct :
+  transgression
+  perversion
+
+miscreant :
+  wretch
+
+miserly :
+
+misgivings :
+  scruple
+
+misnomer :
+
+misogamist :
+
+misogamy :
+
+misogynist :
+
+misology :
+
+missile :
+  projectile
+
+missive :
+
+mist :
+  obscure
+
+mite :
+
+mixologist :
+
+mixology :
+
+mnemonic :
+
+mobile :
+  nomadic
+
+modicum :
+
+modish :
+
+modulate :
+
+molten :
+
+molting :
+  molt
+
+momentous :
+
+momentum :
+
+monarchy :
+
+monastic :
+
+monetary :
+  pecuniary
+
+monochromatic :
+
+monogamist :
+
+monogram :
+
+monograph :
+
+monolithic :
+  monumental
+
+monologist :
+
+monotheism :
+
+montane :
+
+moodiness :
+
+morbid :
+  pathological
+
+mores :
+
+moribund :
+  stagnant
+
+morose :
+  saturnine
+  sour
+  sullen
+
+morphophysiology :
+
+mortar :
+
+mortician :
+  undertaker
+
+motif :
+
+motility :
+  squat
+  quiver
+
+motto :
+
+muggy :
+
+multiform :
+
+multilingual :
+
+mundane :
+  quotidian
+  terrestrial
+
+mural :
+
+murky :
+  turbid
+
+musicologist :
+
+musicology :
+
+musky :
+
+musty :
+
+mutablility :
+
+mute :
+
+muted :
+
+mutinous :
+
+mycologist :
+
+mycology :
+
+myology :
+
+myopic :
+
+myriad :
+
+mystic :
+  occult
+
+mythologist :
+
+mythology :
+
+naivety :
+
+nanotechnology :
+
+narcissist :
+
+narrative :
+
+nascent :
+
+natal :
+
+natation :
+
+nausea :
+
+nauseate :
+
+nauseous :
+  queasy
+  offensive
+  vile
+
+navigable :
+
+nebulous :
+
+necromancy :
+
+nefarious :
+
+negligence :
+
+negligible :
+  paltry
+  trifling
+
+neologism :
+  neology
+
+neonatology :
+
+nephrology :
+
+nether :
+
+neurologist :
+
+neurology :
+
+neurophysiology :
+
+neuropsychology :
+  psychophysiology
+
+nexus :
+
+nib :
+
+nicety :
+  nuance
+  subtlety
+
+nimble :
+  spry
+
+nocturnal :
+
+nomenclature :
+  terminology
+
+nominal :
+  token
+  titular
+
+nonchalance :
+
+noncommittal :
+
+nondescript :
+
+nonentity :
+
+nonsense :
+  rhetoric
+
+noose :
+
+nosology :
+
+nostalgia :
+
+nostrum :
+  panacea
+
+notoriety :
+
+nourishment :
+  nutrition
+  sustenance
+  repast
+
+nova :
+
+novice :
+  tyro
+
+noxious :
+
+nubile :
+
+nugatory :
+
+numerologist :
+
+numerology :
+
+numismatist :
+  numismatologist
+
+numismatology :
+
+nuptial :
+
+nurse :
+  suckle
+
+oatmeal :
+
+obdurate :
+  obstinate
+
+obelisk :
+
+obfuscate :
+
+obituary :
+
+objective :
+
+obligatory :
+
+oblique :
+
+obliterate :
+
+oblivious :
+
+obnoxious :
+
+obsequy :
+
+obsessive :
+
+obsidian :
+
+obsolescent :
+
+obsolete :
+
+obstetrician :
+  perinatologist
+
+obstetrics :
+  tocology
+  perinatology
+
+obstreperous :
+
+obtrude :
+
+obtuse :
+
+Occident :
+
+oceanology :
+
+oculist :
+  optometrist
+  ophthalmologist
+
+odds :
+
+odontology :
+
+odoriferous :
+  odorous
+
+odyssey :
+
+ogle :
+
+olfactory :
+
+oligarchy :
+
+ology :
+  symbology
+
+omnipotent :
+
+omnipresent :
+  ubiquitous
+
+omniscient :
+
+omnivorous :
+
+oncologist :
+
+oncology :
+
+onerous :
+
+onomatopoeia :
+
+ontology :
+
+onus :
+
+oology :
+
+ooze :
+  seep
+  reek
+  secrete
+
+opaque :
+
+ophthalmology :
+
+opiate :
+
+opportune :
+
+opportunist :
+
+optician :
+
+optimist :
+
+optimistic :
+
+optimum :
+
+optional :
+
+opulence :
+
+opus :
+
+oracular :
+
+orator :
+
+ordeal :
+
+ordinance :
+  ordination
+
+orientation :
+  predilection
+
+orifice :
+
+ornithologist :
+
+ornithology :
+
+orthodox :
+
+orthography :
+
+oscillate :
+
+osseous :
+
+ossify :
+
+ostentatious :
+  pretentious
+
+osteology :
+
+otolaryngologist :
+  otorhinolaryngologist
+  rhinolaryngologist
+
+otolaryngology :
+  rhinolaryngology
+  otorhinolaryngology
+
+otologist :
+
+otology :
+
+oust :
+
+outcast :
+  pariah
+
+outskirts :
+
+outstrip :
+  surpass
+  surmount
+  outwit
+
+ovation :
+
+oversee :
+
+overt :
+
+overweening :
+
+overwhelmed :
+
+oxymoron :
+
+pachyderm :
+
+pacifist :
+
+paediatrics :
+  pediatrics
+  pedology
+
+palaeoanthropology :
+  paleoanthropology
+
+palaeoclimatology :
+  paleoclimatology
+
+palaeodendrology :
+  paleodendrology
+
+palaeoecology :
+  paleoecology
+
+palaeology :
+  paleology
+
+palaeontologist :
+  paleontologist
+
+palaeopathology :
+  paleopathology
+
+palaeornithology :
+  paleornithology
+
+palaeozoology :
+  paleozoology
+  paleomammalogy
+
+palaetiology :
+  paletiology
+
+palatable :
+
+palate :
+
+palatial :
+
+palette :
+  pallet
+
+palimpsest :
+
+pallid :
+  wan
+
+palmist :
+
+palpable :
+  tangible
+
+pandemic :
+
+pandemonium :
+
+pang :
+
+panoramic :
+
+papyrus :
+
+paradigm :
+  prototype
+
+paradox :
+
+parallelism :
+
+parameter :
+
+paramount :
+
+paramour :
+
+paranoia :
+
+paraphrase :
+
+parapsychologist :
+
+parapsychology :
+
+parasite :
+
+parched :
+
+parchment :
+
+pare :
+  whittle
+
+parisology :
+
+parity :
+
+parlance :
+
+parley :
+
+parquet :
+
+parsimonious :
+
+partiality :
+
+partition :
+
+parvenu :
+
+passive :
+  peaceful
+
+pastry :
+  tart
+
+pathogenic :
+
+pathologist :
+
+pathology :
+  stricture
+
+pathos :
+  poignancy
+
+patina :
+  verdigris
+
+patriarch :
+
+patrimony :
+
+patrology :
+
+pauper :
+
+peccadillo :
+
+pedagogical :
+
+pedagogue :
+
+pedagogy :
+  tutelage
+
+pedant :
+
+peddle :
+
+pedestal :
+
+pedestrian :
+  peripatetic
+  tramp
+
+pediatrician :
+
+peer :
+
+peerless :
+
+pejorative :
+
+pell-mell :
+
+penchant :
+
+pendant :
+
+pending :
+
+pendulous :
+
+penitent :
+
+penologist :
+
+pensive :
+  wistful
+
+penumbra :
+
+peppy :
+
+perceptive :
+
+percipient :
+
+perdition :
+
+peregrination :
+
+perfidious :
+
+perforate :
+  probe
+
+perigee :
+
+peripheral :
+
+permeable :
+
+permissive :
+
+permutation :
+
+peroration :
+
+perpetrate :
+
+perpetuate :
+
+perpetuity :
+
+perquisite :
+  prerogative
+
+persevere :
+
+personable :
+
+perspicacious :
+  sagacious
+
+perspicuity :
+
+pert :
+
+peruse :
+
+pervasive :
+
+perverse :
+
+pessimism :
+
+pessimist :
+
+pestilential :
+
+pestle :
+
+phalanx :
+
+pharisaical :
+  sanctimonious
+  self-righteous
+
+pharisee :
+
+pharmacology :
+  posology
+  toxicology
+  psychopharmacology
+
+phenomena :
+  upshot
+
+philanderer :
+
+philanthropy :
+
+philatelist :
+
+philistine :
+
+philologist :
+
+philology :
+
+phlebotomist :
+
+phlegmatic :
+
+phobia :
+
+phoenix :
+
+phonologist :
+
+phonology :
+
+phraseology :
+  verbiage
+
+phylum :
+
+physiatrics :
+
+physiological :
+
+phytochemist :
+
+piebald :
+  pied
+
+piecemeal :
+
+piety :
+
+pillory :
+
+pinnace :
+  tender
+
+pious :
+
+piscatorial :
+
+pitfall :
+
+pithy :
+  sententious
+
+pittance :
+
+pivotal :
+
+placebo :
+
+plagiarize :
+
+plaintive :
+
+plane :
+  skim
+
+plaster :
+  poultice
+
+plasticity :
+
+platonic :
+
+plausible :
+
+playful :
+
+pleased :
+
+plebeian :
+
+plebiscite :
+
+plenary :
+
+plenitude :
+
+pleonasm :
+
+plethora :
+
+plumage :
+
+plumb :
+  plummet
+
+plump :
+
+plutocracy :
+
+podiatrist :
+
+polarity :
+
+polarize :
+
+polemical :
+
+polemist :
+
+polity :
+  regime
+
+polygamist :
+
+polyglot :
+
+pomologist :
+
+pomology :
+
+pomposity :
+
+ponderous :
+
+porous :
+
+porridge :
+
+portly :
+  stout
+
+poseur :
+
+posterity :
+
+posthumous :
+
+potable :
+  potion
+
+potent :
+  virile
+
+potentate :
+
+potential :
+
+practical :
+  pragmatic
+  virtual
+
+pragmatist :
+
+prate :
+  prattle
+
+preamble :
+
+precarious :
+
+precinct :
+
+precipice :
+
+precipitant :
+  precipitous
+
+precocious :
+
+predetermine :
+
+predicament :
+
+preeminent :
+
+preempt :
+
+prefatory :
+
+prelate :
+  primate
+
+premeditate :
+
+premonitory :
+
+preponderance :
+
+prepossessing :
+
+prescient :
+
+prestige :
+
+presume :
+
+presumptuous :
+
+pretension :
+
+preternatural :
+  uncanny
+  transcendental
+
+primary :
+
+primogeniture :
+
+pristine :
+
+privation :
+
+privy :
+
+proclivity :
+  propensity
+
+procrastinate :
+
+proctologist :
+
+proctology :
+
+procurement :
+
+prodigal :
+  spendthrift
+  wastrel
+
+profound :
+
+progeny :
+
+prognosis :
+
+prohibitive :
+
+proletarian :
+
+prolixity :
+
+prologue :
+
+prolong :
+  protract
+  temporize
+
+prominent :
+  salient
+
+promiscuous :
+
+promontory :
+
+prone :
+  prostrate
+
+prong :
+
+prop :
+
+propellant :
+  propulsive
+
+prophetic :
+
+prophylactic :
+
+propinquity :
+  proximity
+
+propitious :
+
+proportionate :
+
+propound :
+
+proscenium :
+
+proscribe :
+
+prosper :
+  thrive
+
+prosperity :
+
+protean :
+
+protege :
+
+protoanthropology :
+  protoarcheology
+  protoarchaeology
+
+protocol :
+
+protology :
+
+protozoologist :
+
+protozoology :
+
+provenance :
+
+provender :
+  swill
+
+providence :
+
+provident :
+
+provisional :
+  tentative
+
+proviso :
+
+provocative :
+
+prowess :
+
+proxy :
+
+prude :
+
+prudent :
+
+prurient :
+  salacious
+
+psalmist :
+
+psephologist :
+
+psephology :
+
+pseudonym :
+
+psyche :
+
+psychiatrist :
+
+psychic :
+
+psychologist :
+
+psychology :
+  psychopathology
+  psychometrics
+
+psychopathic :
+
+psychosis :
+
+psychosomatic :
+
+pteridologist :
+
+pteridology :
+
+pterodactyl :
+
+pudding :
+  trifle
+
+puerile :
+
+pugnacious :
+
+pugnacity :
+  truculence
+
+puissant :
+
+pulchritude :
+
+pulmonary :
+
+pulsate :
+  throb
+  pulse
+
+pulverize :
+
+pummel :
+
+pundit :
+  savant
+
+punitive :
+
+puny :
+
+purchase :
+
+purgatory :
+
+purport :
+
+purported :
+
+purse :
+
+purveyor :
+
+pushy :
+
+pusillanimous :
+
+putative :
+
+putrefy :
+
+putrescent :
+
+putrid :
+
+quadruped :
+
+quaint :
+
+qualified :
+  stipulate
+
+qualms :
+
+quarantine :
+
+quay :
+
+querulous :
+
+quiescence :
+
+quiescent :
+
+quietude :
+
+quirk :
+
+quisling :
+
+quixotic :
+
+quizzical :
+
+quorum :
+
+rabble :
+
+rabid :
+
+raconteur :
+
+radiochemist :
+
+radiologist :
+
+radiology :
+
+ragamuffin :
+
+ram :
+
+ramification :
+
+rampant :
+
+rancid :
+
+rancor :
+  resentment
+
+random :
+
+rapacious :
+  voracious
+  ravenous
+
+rare :
+
+rasp :
+
+raspy :
+
+ratify :
+
+ratiocination :
+
+rational :
+
+rationale :
+
+raucous :
+
+rave :
+
+ravel :
+  unravel
+
+ravine :
+
+reactionary :
+
+realm :
+
+reaper :
+
+rebate :
+  rusticate
+
+rebuff :
+  snub
+  repulse
+
+rebus :
+
+rebuttal :
+
+recapitulate :
+  retrograde
+  reprise
+
+recast :
+
+recidivism :
+
+recipient :
+
+reciprocate :
+
+recite :
+  recount
+  rhapsodize
+
+recline :
+
+recluse :
+  withdrawn
+
+reconnaissance :
+
+recourse :
+
+recrimination :
+
+rectitude :
+
+recumbent :
+
+recurrent :
+
+redress :
+  restitution
+
+redundant :
+  supererogatory
+  superfluous
+  supernumerary
+  tautological
+
+refectory :
+
+referendum :
+
+reflexology :
+
+reformist :
+
+refraction :
+
+refurbish :
+
+refuse :
+  scraps
+  repudiate
+  spurn
+  withhold
+
+regatta :
+
+regeneration :
+
+regent :
+
+regicide :
+
+regimen :
+
+regiment :
+
+rehabilitate :
+
+reimburse :
+
+reinstate :
+
+reiterate :
+
+rejuvenate :
+  resurrect
+
+relapse :
+
+relent :
+
+relevant :
+
+religious :
+
+relinquish :
+  resign
+  waive
+
+remediable :
+
+reminisce :
+
+reminiscence :
+
+remiss :
+
+remittance :
+
+remnant :
+
+remote :
+
+rend :
+
+rendezvous :
+  tryst
+
+rendition :
+
+renown :
+
+reparable :
+
+reparation :
+
+repartee :
+
+repellent :
+
+repercussion :
+
+repertoire :
+
+repetition :
+
+repine :
+
+replenish :
+
+replete :
+  sate
+
+replica :
+
+reprehensible :
+
+representational :
+
+reprisal :
+
+reprisals :
+
+reprobation :
+
+repulsion :
+  revulsion
+
+reputable :
+
+reputed :
+
+requisite :
+
+requite :
+
+resignation :
+
+resolute :
+
+resolution :
+
+resound :
+  whine
+  screech
+
+resourceful :
+
+respiration :
+  snuffle
+  snivel
+
+responsiveness :
+
+restive :
+
+resumption :
+
+resurge :
+
+resuscitate :
+
+retentive :
+
+reticent :
+  retiring
+
+retribution :
+
+retrieve :
+
+retroactive :
+
+retrospective :
+
+revelry :
+
+reverend :
+  vicar
+
+reverent :
+
+reverie :
+
+revert :
+
+revile :
+  vilify
+
+rheology :
+
+rheumatologist :
+
+rheumatology :
+
+rider :
+
+righteous :
+
+rightful :
+
+rigid :
+
+riveting :
+
+rivulet :
+
+robust :
+
+rococo :
+
+rolling :
+  vagabond
+  seethe
+
+rooster :
+
+roseate :
+
+rote :
+
+rotundity :
+
+roue :
+
+rousing :
+
+rubric :
+
+ruddy :
+  sanguine
+
+rudimentary :
+
+rue :
+
+ruffian :
+
+ruminant :
+
+rummage :
+
+runic :
+
+rustic :
+  yokel
+
+rustle :
+
+ruthless :
+
+saboteur :
+  sleeper
+
+sacrilegious :
+
+sacrosanct :
+
+sadistic :
+
+saga :
+
+saline :
+
+sallow :
+
+salutary :
+
+sanguine :
+
+sarcasm :
+  satire
+
+sardonic :
+
+sartorial :
+
+satellite :
+
+satirical :
+
+satisfied :
+
+scabbard :
+
+scad :
+
+scaffold :
+
+scanty :
+
+scapegoat :
+
+schematic :
+
+scholarly :
+
+scientology :
+
+scintillate :
+
+scion :
+
+scowl :
+
+scrappy :
+
+scurry :
+
+seamy :
+  seedy
+  sleazy
+  sordid
+
+season :
+
+seasonable :
+
+seasonal :
+
+seasoned :
+
+secession :
+
+seclusion :
+
+sedentary :
+
+seine :
+
+seismic :
+
+seismologist :
+
+seismology :
+
+selective :
+
+selenology :
+
+self-indulgence :
+
+semasiology :
+
+seminary :
+
+semiology :
+
+sensitization :
+
+sensuous :
+
+sensuous :
+
+sentient :
+
+septic :
+
+sepulcher :
+
+sere :
+
+serendipity :
+
+serologist :
+
+serology :
+
+serpentine :
+
+serrated :
+
+servile :
+
+servitude :
+
+sever :
+
+sextant :
+
+Shangri-la :
+
+shard :
+
+shaving :
+  tonsure
+
+sheaf :
+
+sheathe :
+
+sherbet :
+
+shirk :
+
+shoddy :
+
+shrew :
+
+shudder :
+
+shuffle :
+
+shunt :
+
+shyster :
+
+sibling :
+
+sidereal :
+
+sidetrack :
+  straggle
+
+significant :
+  substantial
+
+silt :
+
+simian :
+
+simile :
+
+simper :
+  smirk
+
+simplistic :
+
+simulate :
+
+sinecure :
+
+singular :
+  unique
+
+sinologist :
+
+sinology :
+
+sinuous :
+
+siren :
+
+skeptic :
+
+skeptical :
+
+skiff :
+
+skimp :
+
+skinflint :
+
+skulduggery :
+
+slacken :
+
+slap :
+
+slavish :
+  subservient
+  submissive
+
+sledge :
+  sleigh
+
+sleek :
+
+sleight :
+
+slew :
+  spate
+  swerve
+  veer
+
+slink :
+
+slither :
+
+slovenly :
+
+sluggard :
+
+sluggish :
+
+sly :
+  wily
+
+smart :
+
+smattering :
+
+smelt :
+  stink
+
+smolder :
+
+smug :
+
+soar :
+
+sober :
+  solemn
+
+sociologist :
+
+sociology :
+
+sociopath :
+
+sodden :
+
+sojourn :
+
+solicitor :
+
+solicitous :
+
+soliloquy :
+
+solitude :
+
+solstice :
+
+soluble :
+
+somnambulist :
+
+somnolent :
+
+sonic :
+
+sonnet :
+
+sonorous :
+
+soothsayer :
+
+sophist :
+
+sophisticated :
+
+sophomoric :
+
+soporific :
+
+soteriology :
+
+sovereignty :
+
+sparkling :
+
+sparse :
+
+spatial :
+
+spatula :
+
+specious :
+  spurious
+
+spectral :
+
+speechless :
+
+spelaeologist :
+  speleologist
+
+sphinx-like :
+
+splice :
+
+spontaneity :
+
+spoonerism :
+
+sporadic :
+
+sprightly :
+
+sprightly :
+
+spruce :
+
+squalor :
+
+squander :
+
+squash :
+
+staccato :
+
+staid :
+
+stalwart :
+  sturdy
+
+stamina :
+
+stampede :
+
+stanza :
+
+stately :
+
+static :
+
+statute :
+
+statutory :
+
+steadfast :
+  unfaltering
+
+stealth :
+
+stem_from :
+
+stemmatology :
+
+stench :
+
+stentorian :
+
+stereotype :
+
+stickler :
+
+stipend :
+
+stockade :
+
+stodgy :
+
+stoic :
+
+stoke :
+
+stolid :
+
+stratified :
+
+stratum :
+
+strew :
+
+striated :
+
+stringent :
+
+studied :
+
+stygian :
+
+suavity :
+
+subaltern :
+
+subjective :
+
+subjugate :
+
+subliminal :
+
+subordinate :
+  subsidiary
+
+suborn :
+
+subpoena :
+
+subsequent :
+
+subsidy :
+
+subsistence :
+
+substantive :
+
+subsume :
+
+subterfuge :
+
+succor :
+
+succulent :
+
+suffuse :
+
+suitor :
+
+sultry :
+
+sumerology :
+
+summation :
+
+sumptuous :
+
+sunder :
+
+sunny :
+
+superannuated :
+
+superficial :
+
+superimpose :
+
+supersede :
+  supplant
+
+supine :
+
+suppliant :
+  supplicant
+
+surly :
+
+surrogate :
+
+surveillance :
+  vigil
+
+susceptible :
+
+suspend :
+
+suspense :
+
+suture :
+
+swarthy :
+
+swear-word :
+
+swelter :
+
+swindler :
+
+sybarite :
+
+sycophant :
+
+syllogism :
+
+syllogist :
+
+sylvan :
+
+symbiosis :
+
+synchronous :
+
+synecdoche :
+
+synoptic :
+
+synthesis :
+
+synthetic :
+
+tacit :
+
+taciturn :
+
+tact :
+
+tactful :
+
+tactile :
+
+talon :
+
+tangential :
+
+tantalize :
+  taunt
+
+tantamount :
+
+tantrum :
+
+tarantula :
+
+tatter :
+
+taut :
+
+tautology :
+
+tawny :
+
+technologist :
+
+teetotalism :
+
+teleology :
+
+temperament :
+
+temperate :
+
+tempestuous :
+
+tempo :
+
+temporal :
+
+tenable :
+
+tenacity :
+
+tenancy :
+
+tenant :
+
+tendentious :
+
+tenet :
+
+tenuous :
+
+tenure :
+
+teratology :
+
+terminal :
+  terminus
+
+tertiary :
+
+tessellated :
+
+testator :
+
+tetralogy :
+
+thanatology :
+
+thematic :
+
+theologist :
+
+theology :
+
+theoretical :
+
+therapeutic :
+
+thermal :
+
+thespian :
+
+thrall :
+
+threat :
+
+thrifty :
+
+thrilled :
+
+throes :
+
+throng :
+
+tightwad :
+
+tiller :
+
+timbre :
+
+timidity :
+
+timorous :
+
+tint :
+
+tirade :
+
+titanic :
+
+tithe :
+
+toga :
+
+tome :
+
+topography :
+  topology
+
+torpor :
+
+torque :
+
+torso :
+
+totemist :
+
+touching :
+
+touchy :
+
+toxic :
+
+toxicologist :
+
+tract :
+
+trajectory :
+
+trample :
+
+transcend :
+
+transcendent :
+
+translucent :
+
+transmute :
+
+transpose :
+
+traumatic :
+
+traumatology :
+
+traverse :
+
+treasure :
+
+treatise :
+
+trek :
+
+tremulous :
+
+trenchant :
+
+trepidation :
+
+tribologist :
+
+tribology :
+
+tribulation :
+
+tribune :
+
+tribute :
+
+trickster :
+
+trilogy :
+
+trivia :
+
+truculent :
+
+truism :
+
+truncate :
+
+tumult :
+
+tundra :
+
+turbulence :
+
+tureen :
+
+tutelary :
+
+typhoon :
+
+typology :
+
+ulcer :
+
+ulterior :
+
+ultimate :
+
+ultimatum :
+
+umbrage :
+
+unaccountable :
+
+unassuaged :
+
+unassuming :
+
+unbridled :
+
+unceremonious :
+
+unconformist :
+
+uncouth :
+
+underhand :
+
+undermine :
+
+understate :
+
+undulating :
+
+unearth :
+
+unearthly :
+  weird
+
+unequivocal :
+
+unerringly :
+
+unexceptionable :
+
+unfeigned :
+
+unfetter :
+
+ungainly :
+  unwieldy
+
+uniformity :
+
+unilateral :
+
+uninhibited :
+
+unintimating :
+
+universal :
+
+unkempt :
+
+unmitigated :
+
+unobtrusive :
+
+unprecedented :
+
+unprepossessing :
+
+unregenerate :
+
+unrequited :
+
+unsavory :
+
+unscathed :
+
+unseemly :
+
+unsightly :
+
+unsullied :
+
+untenable :
+
+unwitting :
+
+unwonted :
+
+upright :
+
+uranologist :
+
+uranology :
+
+urbane :
+
+urchin :
+
+urgent :
+
+urologist :
+
+urology :
+
+ursine :
+
+usage :
+
+usury :
+
+utopia :
+
+uxorious :
+
+vagary :
+
+vagrant :
+
+vainglorious :
+
+valedictory :
+
+valid :
+
+valor :
+
+vampire :
+
+vanguard :
+
+vantage :
+
+variegate :
+
+variegated :
+
+varnish :
+
+vassal :
+
+vaunted :
+
+vegetate :
+
+vehement :
+
+velocity :
+
+venal :
+
+vendetta :
+
+vendor :
+
+veneer :
+
+venial :
+
+venison :
+
+ventral :
+
+ventriloquist :
+
+veracious :
+
+veracity :
+
+verbatim :
+
+verbose :
+
+verdant :
+
+verisimilar :
+
+verisimilitude :
+
+veritable :
+
+verity :
+
+vernal :
+
+versatile :
+
+vertebrate :
+
+vertigo :
+
+verve :
+
+vestige :
+
+viand :
+
+vibrant :
+  vivacious
+
+vicarious :
+
+vicissitude :
+
+vigilant :
+
+vigilante :
+
+vigor :
+
+vindictive :
+
+vintner :
+
+viper :
+
+virologist :
+
+virology :
+
+virus :
+
+visceral :
+
+vise :
+
+vision :
+
+vitreous :
+
+vituperative :
+
+vivisection :
+
+vixen :
+
+vogue :
+
+volatile :
+
+volcanology :
+  vulcanology
+
+voluble :
+
+voluminous :
+
+voluptuous :
+
+vouchsafe :
+
+voyeur :
+
+vulnerable :
+
+vulpine :
+
+vulture :
+
+vying :
+
+wade :
+
+waffle :
+
+waft :
+
+wag :
+
+waggish :
+
+waif :
+
+wanderlust :
+
+warble :
+
+ward :
+
+warranted :
+
+warren :
+
+wax :
+
+well-bred :
+
+welt :
+
+welter :
+
+whimsy :
+
+whinny :
+
+wholesome :
+
+whorl :
+
+willowy :
+
+windfall :
+
+winnow :
+
+winsome :
+
+wisp :
+
+wispy :
+
+withstand :
+
+witless :
+
+witticism :
+
+wizardry :
+
+wizened :
+
+woe :
+
+woeful :
+
+wont :
+
+wrath :
+
+wreak :
+
+wrench :
+
+wrest :
+
+writ :
+
+writhe :
+
+wrongheaded :
+
+wykehamist :
+
+xenophobia :
+
+yen :
+
+yeoman :
+
+yore :
+
+zenith :
+
+zephyr :
+
+zestful :
+
+zymology :
+Total number of words : 3478

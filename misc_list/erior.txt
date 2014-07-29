@@ -1,0 +1,7 @@
+anterior
+exterior
+inferior
+interior
+posterior
+superior
+ulterior

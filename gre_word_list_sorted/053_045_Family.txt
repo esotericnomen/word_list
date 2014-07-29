@@ -9,7 +9,7 @@ betroth
 cognate
 conjugal
 connubial
-consanguineous(consanguine)
+consanguineous
 consanguinity
 consort
 consummate
@@ -19,7 +19,7 @@ ethnic
 eugenic
 eugenics
 filial
-forebears(forbears)
+forebears
 genealogy
 gentry
 husband

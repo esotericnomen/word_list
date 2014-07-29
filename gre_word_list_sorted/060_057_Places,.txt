@@ -16,7 +16,7 @@ dais
 distant
 domicile
 Elysium
-embed(imbed)
+embed
 enclave
 encroachment
 entrance

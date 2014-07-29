@@ -1,0 +1,6 @@
+assume
+consume
+presume
+re-assume
+resume
+subsume

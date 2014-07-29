@@ -47,7 +47,7 @@ exasperate
 extant
 exult
 forlorn
-frenetic(phrenetic)
+frenetic
 funereal
 gall
 gall
@@ -59,7 +59,7 @@ halcyon
 halting
 histrionic
 hysteria
-idyll(idyl)
+idyll
 impassioned
 imperturbable
 indignation

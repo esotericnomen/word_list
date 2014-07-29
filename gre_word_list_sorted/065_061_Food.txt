@@ -12,7 +12,7 @@ cuisine
 culinary
 emaciated
 epicure
-fete(f^ete)
+fete
 garnish
 gastronomy
 glut
@@ -32,7 +32,7 @@ nutrition
 nutritious
 oatmeal
 pastry
-perquisite(perk)
+perquisite
 piquant
 porridge
 potable

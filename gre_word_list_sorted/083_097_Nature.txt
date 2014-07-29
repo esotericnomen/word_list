@@ -17,7 +17,7 @@ confidential
 conventional
 crass
 decry
-denouement(d'enouement)
+denouement
 depose
 diffuse
 distinct
@@ -67,7 +67,7 @@ perspicuity
 perspicuous
 plaintive
 prate
-precis(pr'ecis)
+precis
 prevaricate
 profound
 prolixity

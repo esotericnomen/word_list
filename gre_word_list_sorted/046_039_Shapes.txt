@@ -3,7 +3,7 @@ angular
 askew
 awry
 barb
-behoove(behove)
+behoove
 blotch
 bulge
 circlet

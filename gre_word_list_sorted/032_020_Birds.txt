@@ -1,12 +1,12 @@
-aerie(aery,eyrie,eyry)
+aerie
 aquiline
 aviary
 crest
-fledgling(fledgeling)
+fledgling
 flutter
 gull
 hover
-molt(moult)
+molt
 nib
 ornithologist
 panache

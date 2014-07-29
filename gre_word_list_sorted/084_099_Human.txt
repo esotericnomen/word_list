@@ -21,14 +21,14 @@ congenital
 corporeal
 corpulent
 corpuscle
-decollete(d'ecollet'e)
+decollete
 doddering
 ecologist
 ejaculation
 embryonic
 emollient
 exertion
-facade(fac{c}ade)
+facade
 fissure
 gaunt
 girth
@@ -58,7 +58,7 @@ palate
 pallid
 palm
 palpitate
-pendant(pendent)
+pendant
 phalanx
 physiognomy
 physiological

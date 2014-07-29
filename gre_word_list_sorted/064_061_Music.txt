@@ -17,7 +17,7 @@ coin
 colloquial
 concord
 connotation
-conservatory(conservatoire)
+conservatory
 diva
 ellipsis
 epigram
@@ -32,7 +32,7 @@ linguistic
 litotes
 madrigal
 malapropism
-matinee(matin'ee)
+matinee
 metaphor
 mode
 modulate

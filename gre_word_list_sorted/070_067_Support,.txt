@@ -17,7 +17,7 @@ causal
 cessation
 champion
 championship
-checkered(chequered)
+checkered
 complement
 complementary
 conducive

@@ -14,7 +14,6 @@ abject
 abjure
 ablution
 abnegation
-abnormal psychology
 abode
 abolish
 abominable
@@ -105,7 +104,7 @@ advert
 advocacy
 advocate
 aegis
-aerie(aery,eyrie,eyry)
+aerie
 aerology
 aesthetic
 aetiologist
@@ -188,7 +187,7 @@ amiss
 amity
 amnesia
 amnesty
-amok(amuck)
+amok
 amoral
 amorous
 amorphous
@@ -226,7 +225,6 @@ angiology
 anguish
 angular
 animadversion
-animal psychology
 animated
 animist
 animosity
@@ -285,9 +283,9 @@ apology
 apoplexy
 apostasy
 apostate
-apostrophe 
+apostrophe
 apothecary
-apothegm(apophthegm)
+apothegm
 apotheosis
 appall
 apparent
@@ -296,7 +294,6 @@ appease
 appellation
 append
 application
-applied psychology
 apposite
 appraise
 appreciate
@@ -412,7 +409,6 @@ authoritarian
 authoritative
 autocratic
 automaton
-automotive technology
 autonomous
 autonomy
 autopsy
@@ -441,7 +437,6 @@ babble
 bacchanal
 Bacchanalia
 bacchanalian
-bachelor of theology
 backslide
 bacteriologist
 bacteriology
@@ -487,11 +482,9 @@ befuddle
 beget
 begrudge
 beguile
-behavioristic psychology
-behaviouristic psychology
 behemoth
 beholden
-behoove(behove)
+behoove
 belabor
 belated
 beleaguer
@@ -558,7 +551,7 @@ bland
 bland	
 blandishment
 blare
-blase(blas'e)
+blase
 blasphemy
 blatant
 bleak
@@ -568,7 +561,7 @@ blighted
 bliss
 blissful	
 blithe
-blithe(blithesome)
+blithe
 bloated
 blotch
 blowhard
@@ -663,7 +656,6 @@ burgeon
 burlesque
 burnish
 bust
-bus topology
 buttress
 buxom
 cabal
@@ -678,7 +670,7 @@ cadet
 cajole
 calamity
 calculated
-caldron(cauldron)
+caldron
 caliber
 calligraphy
 callous
@@ -699,7 +691,6 @@ canon
 cant
 cantankerous
 cantata
-can't complain	
 canter
 canto
 canvass
@@ -716,7 +707,7 @@ captious
 captivated	
 carafe
 carapace
-carat(karat)
+carat
 carcinogenic
 cardinal
 cardiologist
@@ -754,7 +745,7 @@ cathartic
 catholic
 catoptrics
 caucus
-caulk(calk)
+caulk
 causal
 caustic
 cauterize
@@ -809,14 +800,13 @@ chasten
 chastise
 chauvinist
 check
-checkered(chequered)
+checkered
 cheerful
 chemist
 chemoimmunology
 cherubic
 chicanery
 chide
-child psychology
 chimerical
 chip
 chipper	
@@ -831,13 +821,11 @@ chore
 choreography
 chortle
 chorus
-christian theology
 christology
 chronic
 chronicle
 chronology
 chuckle
-church of scientology
 churlish
 ciliated
 cipher
@@ -862,22 +850,18 @@ clap
 clapper
 clarion
 clasp
-classical mythology
 claustrophobia
 clavicle
 cleave
 cleft
 clemency
-cliche(clich'e)
+cliche
 clientele
 climactic
 climatologist
 climatology
 climax
 clime
-clinical neurology
-clinical psychologist
-clinical psychology
 clip
 clipper
 clique
@@ -901,7 +885,6 @@ cogent
 cogitate
 cognate
 cognitive
-cognitive psychology
 cognizance
 cohabit
 cohere
@@ -940,10 +923,7 @@ commonplace
 commonwealth
 communal
 commune
-communications technology
 compact
-comparative anatomist
-comparative psychology
 compartment
 compassion
 compatible
@@ -965,7 +945,6 @@ comport
 compost
 composure
 compound
-compound morphology
 comprehend
 comprehensive
 compress
@@ -976,7 +955,6 @@ compulsive
 compulsory
 compunction
 compute
-computer technology
 concatenate
 concave
 concede
@@ -1005,7 +983,7 @@ condole
 condone
 conducive
 conduit
-confidant(confidante)
+confidant
 confide
 confidence
 confident	
@@ -1032,14 +1010,14 @@ connivance
 connoisseur
 connotation
 connubial
-consanguineous(consanguine)
+consanguineous
 consanguinity
 conscientious
 conscript
 consecrate
 consensus
 consequential
-conservatory(conservatoire)
+conservatory
 consign
 consistency
 console
@@ -1177,8 +1155,6 @@ cull
 culmination
 culpable
 culprit
-cultural anthropologist
-cultural anthropology
 culvert
 cumbersome
 cumulative
@@ -1220,7 +1196,7 @@ debase
 debauch
 debilitate
 debonair
-debris(d'ebris)
+debris
 debunk
 debut
 debutante
@@ -1233,7 +1209,7 @@ deciduous
 decimate
 decipher
 declivity
-decollete(d'ecollet'e)
+decollete
 decomposition
 decorous
 decorum
@@ -1290,7 +1266,7 @@ demise
 demist
 demographic
 demolition
-demoniac(demoniacal)
+demoniac
 demotic
 demur
 demure
@@ -1298,12 +1274,8 @@ denigrate
 denizen
 denomination
 denotation
-denouement(d'enouement)
+denouement
 denounce
-department of anthropology
-department of biology
-department of psychology
-department of sociology
 depict
 deplete
 deplore
@@ -1315,7 +1287,6 @@ depravity
 deprecate
 depreciate
 depredation
-depth psychology
 deputize
 deranged
 derelict
@@ -1323,12 +1294,10 @@ dereliction
 deride
 derision
 derivation
-derivational morphology
 derivative
 dermatologist
 dermatology
 derogatory
-descriptive anthropology
 descry
 desecrate
 deserts
@@ -1350,7 +1319,6 @@ deterrent
 detonation
 detraction
 detrimental
-developmental psychology
 deviate
 devious
 devise
@@ -1369,11 +1337,9 @@ dichotomy
 dictum
 didactic
 die
-differential psychology
 diffidence
 diffident
 diffuse
-digital communications technology
 dignitary
 digression
 dilapidated
@@ -1486,11 +1452,8 @@ divine
 divulge
 docile
 docket
-doctor of sacred theology
-doctor of theology
 doctrinaire
 doctrine
-doctrine of analogy
 document
 doddering
 doff
@@ -1543,13 +1506,13 @@ dubious
 ductile
 dulcet
 dull
-dumbfound(dumfound)
+dumbfound
 dummy
 dupe
 duplicity
 duration
 duress
-dutiful(duteous)
+dutiful
 dwindle
 dynamic
 dynamo
@@ -1574,7 +1537,6 @@ ecliptic
 ecologist
 ecology
 econometrics
-economic geology
 economist
 economy
 ecosystem
@@ -1634,7 +1596,7 @@ emancipate
 emasculate
 embargo
 embark
-embed(imbed)
+embed
 embellish
 embezzlement
 embitter
@@ -1715,15 +1677,15 @@ entomostraca
 entourage
 entrance
 entreat
-entree(entr'ee)
+entree
 entrepreneur
 enumerate
 enunciate
 environ
 enzymologist
 enzymology
-eon(aeon)
-epaulet 
+eon
+epaulet
 epaulette
 ephemeral
 epic
@@ -1847,14 +1809,13 @@ expedient
 expedite
 expeditious
 expenditure
-experimental psychology
 expertise
 expiate
 expletive
 explicate
 explicit
 exploit
-expose(expos'e)
+expose
 expository
 expostulation
 exposure
@@ -1884,7 +1845,7 @@ exult
 exultant
 fable
 fabricate
-facade(fac{c}ade)
+facade
 facet
 facetious
 facile
@@ -1900,7 +1861,6 @@ fake
 fallacious
 fallacy
 fallible
-fallot's tetralogy
 fallow
 falsify
 falter
@@ -1949,9 +1909,9 @@ fervid
 fervor
 fester
 festive
-fete(f^ete)
-fetid(foetid)
-fetish(fetich)
+fete
+fetid
+fetish
 fetology
 fetter
 feud
@@ -1994,7 +1954,7 @@ flaunt
 flay
 fleck
 fledgling
-fledgling(fledgeling)
+fledgling
 fleece
 fleet
 flick
@@ -2022,14 +1982,12 @@ fluster
 fluted
 flutter
 flux
-flying high	
 fodder
 foetology
 foible
 foil
 foist
 foliage
-folk etymology
 foment
 foolhardy
 foppish
@@ -2037,10 +1995,9 @@ forage
 foray
 forbearance
 ford
-forebears(forbears)
+forebears
 foreboding
 forensic
-forensic pathology
 forerunner
 foreshadow
 foresight
@@ -2074,11 +2031,10 @@ fraudulent
 fraught
 fray
 freebooter
-frenetic(phrenetic)
+frenetic
 frenzied
 fresco
 fret
-freudian psychology
 friction
 frieze
 frigid
@@ -2090,7 +2046,6 @@ frock
 frolic
 frolicsome
 frond
-frost mist
 fructify
 frugal
 frugality
@@ -2157,7 +2112,6 @@ generality
 generate
 generic
 genesis
-genetic psychology
 geniality
 genre
 genteel
@@ -2178,7 +2132,6 @@ gerontocracy
 gerontologist
 gerontology
 gerrymander
-gestalt psychology
 gestate
 gesticulation
 ghastly
@@ -2239,14 +2192,13 @@ graphologist
 graphology
 grapple
 grate
-gratified	 
+gratified
 gratify
 gratis
 gratuitous
 gratuity
 gravity
 graze
-greek mythology
 gregarious
 grievance
 grill
@@ -2365,7 +2317,6 @@ hideous
 hierarchy
 hieroglyphic
 high-flown
-high technology
 hilarious	
 hilarity
 hindmost
@@ -2394,7 +2345,6 @@ homogeneous
 homology
 hone
 hoodwink
-hopeful	humorous	 
 horde
 horologist
 horology
@@ -2412,11 +2362,7 @@ hue
 hue_and_cry
 hull
 humane
-human ecology
 humanitarian
-human language technology
-human palaeontology
-human paleontology
 humble
 humdrum
 humid
@@ -2444,7 +2390,7 @@ hysteria
 ichthyologist
 ichthyology
 icky
-icon(ikon)
+icon
 iconoclast
 iconoclastic
 iconology
@@ -2455,7 +2401,7 @@ idiosyncrasy
 idle
 idolatry
 idyllic
-idyll(idyl)
+idyll
 igneous
 ignite
 ignoble
@@ -2632,7 +2578,6 @@ induct
 inductive
 indulge
 indulgent
-industrial psychology
 industrious
 inebriate
 inebriated
@@ -2658,16 +2603,13 @@ infiltrate
 infinitesimal
 infirmity
 inflated
-inflectional morphology
 influx
-information technology
 infraction
 infringe
 infusion
 ingenious
 ingenue
 ingenuous
-in good spirits	
 ingrained
 ingrate
 ingratiate
@@ -2684,7 +2626,6 @@ innate
 innocuous
 innovation
 innuendo
-innuendo 
 inopportune
 inordinate
 inquisitive
@@ -2825,7 +2766,6 @@ jug
 juggernaut
 jumble
 juncture
-jungian psychology
 junket
 junta
 juridical
@@ -2918,7 +2858,6 @@ lexicon
 liability
 liaison
 libel
-liberation theology
 libertine
 libidinous
 libido
@@ -2950,7 +2889,6 @@ lithology
 litigate
 litigation
 litotes
-litotes 
 litter
 liturgiology
 lively	
@@ -2961,14 +2899,12 @@ lode
 loft
 lofty
 log
-logical topology
 logy
 loiter
 loll
 longevity
 lookout
 loom
-loop topology
 lope
 lopsided
 loquacious
@@ -3048,7 +2984,7 @@ mammoth
 manacle
 mandate
 mandatory
-maneuver(manoeuver)
+maneuver
 mange
 mangle
 mangy
@@ -3066,8 +3002,6 @@ mar
 maraud
 margin
 marginal
-marine archaeology
-marine archeology
 marital
 maritime
 marked
@@ -3084,13 +3018,11 @@ masochist
 mason
 masquerade
 mass
-massachusetts institute of technology
-master of theology
 masticate
 mat
 materialism
 maternal
-matinee(matin'ee)
+matinee
 matriarch
 matriculate
 matrimony
@@ -3134,7 +3066,6 @@ meretricious
 merger
 merit
 merry	
-mesh topology
 mesmerize
 metallurgical
 metamorphosis
@@ -3175,9 +3106,8 @@ mineralogist
 mineralogy
 mingle
 miniature
-mining geology
 minion
-minuscule(miniscule)
+minuscule
 minute
 minutiae
 mirage
@@ -3219,14 +3149,12 @@ modicum
 modish
 modulate
 mogul
-molecular biologist
-molecular biology
 molecule
 mollify
 mollycoddle
 molten
 molting
-molt(moult)
+molt
 momentous
 momentum
 monarchy
@@ -3298,7 +3226,7 @@ mystic
 mythologist
 mythology
 nadir
-naivety(naivet'e)
+naivety
 nanotechnology
 narcissism
 narcissist
@@ -3306,9 +3234,7 @@ narrative
 nascent
 natal
 natation
-national institute of standards and technology
 natty
-natural theology
 nausea
 nauseate
 nauseous
@@ -3334,7 +3260,6 @@ nephrology
 nepotism
 nether
 nettle
-network topology
 neurobiologist
 neurobiology
 neurologist
@@ -3363,7 +3288,6 @@ nonentity
 nonplus
 nonsense
 noose
-norse mythology
 nosology
 nostalgia
 nostrum
@@ -3378,7 +3302,6 @@ novice
 noxious
 nuance
 nubile
-nuclear chemist
 nugatory
 nullify
 numerologist
@@ -3441,7 +3364,6 @@ offensive
 offhand
 officious
 ogle
-oil geologist
 olfactory
 oligarchy
 ology
@@ -3450,7 +3372,6 @@ omnipotent
 omnipresent
 omniscient
 omnivorous
-on cloud nine	
 oncologist
 oncology
 onerous
@@ -3631,7 +3552,7 @@ partiality
 partisan
 partition
 parvenu
-passe(pass'e)
+passe
 passive
 pass_off
 paste
@@ -3678,7 +3599,7 @@ pellucid
 pen
 penance
 penchant
-pendant(pendent)
+pendant
 pending
 pendulous
 penetrate
@@ -3719,7 +3640,7 @@ perpetual
 perpetuate
 perpetuity
 perquisite
-perquisite(perk)
+perquisite
 persevere
 persist
 personable
@@ -3740,18 +3661,15 @@ perversion
 pervert
 pessimism
 pessimist
-pestilential(pestilent)
+pestilential
 pestle
 petrify
-petroleum geologist
-petroleum geology
 petrology
 petty
 petulant
 phalanx
 pharisaical
 pharisee
-pharmaceutical chemist
 pharmacologist
 pharmacology
 phenomena
@@ -3776,11 +3694,8 @@ phrenology
 phycology
 phylum
 physiatrics
-physical anthropology
-physical topology
 physiognomy
 physiological
-physiological psychology
 physiologist
 physiology
 phytochemist
@@ -3827,7 +3742,7 @@ plebeian
 plebiscite
 plenary
 plenitude
-pleonasm 
+pleonasm
 plethora
 pliable
 pliant
@@ -3899,7 +3814,7 @@ precipitant
 precipitate
 precipitous
 precise
-precis(pr'ecis)
+precis
 preclude
 precocious
 precursor
@@ -3993,7 +3908,7 @@ prong
 pronounced
 prop
 propagate
-propellant(propellent)
+propellant
 propensity
 prophetic
 prophylactic
@@ -4016,7 +3931,7 @@ prosperous
 prostrate
 protagonist
 protean
-protege(prot'eg'e)
+protege
 protoanthropology
 protoarchaeology
 protoarcheology
@@ -4143,14 +4058,12 @@ raconteur
 radiobiologist
 radiobiology
 radiochemist
-radiologic technologist
 radiologist
 radiology
 raffle
 rag
 ragamuffin
 rail
-rail technology
 raiment
 rake
 rakish
@@ -4215,7 +4128,6 @@ recite
 reckon
 recline
 recluse
-recombinant dna technology
 reconcile
 recondite
 reconnaissance
@@ -4300,7 +4212,7 @@ repel
 repellent
 repercussion
 repertoire
-repetition 
+repetition
 repine
 replenish
 replete
@@ -4408,7 +4320,6 @@ robust
 rococo
 roil
 rolling
-roman mythology
 romp
 rooster
 roseate
@@ -4418,7 +4329,7 @@ rote
 rotund
 rotunda
 rotundity
-roue(rou'e)
+roue
 rousing
 rout
 rubble
@@ -4427,7 +4338,6 @@ ruddy
 rudimentary
 rue
 ruffian
-rule of morphology
 rumble
 ruminant
 ruminate
@@ -4627,7 +4537,7 @@ skimp
 skinflint
 skirmish
 skittish
-skulduggery(skullduggery)
+skulduggery
 skulk
 slack
 slacken
@@ -4671,15 +4581,11 @@ sneak
 snicker
 snip
 snivel
-snow mist
 snub
 snuffle
 soar
 sober
 sobriety
-social anthropologist
-social anthropology
-social psychology
 sociobiologist
 sociobiology
 sociologist
@@ -4721,7 +4627,6 @@ sour
 sovereign
 sovereignty
 sow
-space biology
 spangle
 sparkling
 sparse
@@ -4780,7 +4685,6 @@ stanch
 standstill
 stanza
 start
-star topology
 stately
 static
 statute
@@ -4823,8 +4727,6 @@ striated
 stricture
 strident
 stringent
-structural anthropology
-structural sociology
 strut
 studied
 studious
@@ -5181,14 +5083,12 @@ unconscionable
 uncouth
 unction
 unctuous
-underhand(underhanded)
+underhand
 underlying
 undermine
 underscore
 understate
 undertaker
-underwater archaeology
-underwater archeology
 undulating
 unearth
 unearthly
@@ -5309,7 +5209,6 @@ vernacular
 vernal
 versatile
 vertebrate
-vertebrate paleontology
 vertex
 vertigo
 verve
@@ -5391,7 +5290,6 @@ waggish
 waif
 waive
 wake
-walking on air	
 wallow
 wan
 wanderlust

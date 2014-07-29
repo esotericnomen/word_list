@@ -1,6 +1,6 @@
 alias
 anonymity
-epaulet 
+epaulet
 epaulette
 fictitious
 incognito

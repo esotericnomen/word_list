@@ -22,7 +22,7 @@ mantle
 nebula
 nova
 perigee
-propellant(propellent)
+propellant
 satellite
 seismic
 sextant

@@ -13,14 +13,12 @@ biologist
 bugologist
 cardiologist
 climatologist
-clinical psychologist
 conchologist
 cosmetologist
 cosmologist
 craniologist
 criminologist
 cryptologist
-cultural anthropologist
 cytologist
 dermatologist
 ecologist
@@ -67,7 +65,6 @@ meteorologist
 microbiologist
 mineralogist
 mixologist
-molecular biologist
 monologist
 musicologist
 mycologist
@@ -78,7 +75,6 @@ neurologist
 numerologist
 numismatologist
 oenologist
-oil geologist
 oncologist
 ophthalmologist
 ornithologist
@@ -92,7 +88,6 @@ parapsychologist
 pathologist
 penologist
 perinatologist
-petroleum geologist
 pharmacologist
 philologist
 phonologist
@@ -106,14 +101,12 @@ psephologist
 psychologist
 pteridologist
 radiobiologist
-radiologic technologist
 radiologist
 rheumatologist
 rhinolaryngologist
 seismologist
 serologist
 sinologist
-social anthropologist
 sociobiologist
 sociologist
 spelaeologist
